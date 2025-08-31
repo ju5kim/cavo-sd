@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "totalItems": 3,
+  "checksum": "abc123def456ghi789",
+  "description": "상점 데이터 버전 정보",
+  "changes": [
+    "초기 상점 데이터 추가",
+    "TOEIC, 비즈니스, 일상생활 단어장 포함"
+  ]
+}

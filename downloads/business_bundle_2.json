@@ -6,7 +6,20 @@
   "sections": [
     {
       "id": "business_bundle_1",
-      "name": "비즈니스 영어 단어장",
+      "name": "비즈니스",
+      "safeName": "business_english_vocabulary",
+      "description": "비즈니스 상황에서 자주 사용되는 영어 단어들을 모은 단어장입니다.",
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-01-15T10:00:00Z",
+      "cardCount": 5,
+      "averageMasteryLevel": 0.0,
+      "isPurchased": false,
+      "price": 0,
+      "order": 0
+    },
+    {
+      "id": "business_bundle_2",
+      "name": "비즈니스테스트",
       "safeName": "business_english_vocabulary",
       "description": "비즈니스 상황에서 자주 사용되는 영어 단어들을 모은 단어장입니다.",
       "createdAt": "2024-01-15T10:00:00Z",
@@ -52,7 +65,7 @@
       "word": "feedback",
       "meaning": "피드백, 의견",
       "example": "Please provide feedback on the new proposal.",
-      "sectionId": "business_bundle_1"
+      "sectionId": "business_bundle_2"
     }
   ],
   "totalCards": 5,

@@ -1,0 +1,21 @@
+[일상생활]
+apple|사과|I eat an apple every day.
+banana|바나나|Bananas are yellow and sweet.
+cat|고양이|The cat is sleeping on the sofa.
+dog|개|My dog likes to play in the park.
+house|집|I live in a big house.
+
+[가족]
+mother|어머니|My mother cooks delicious food.
+father|아버지|My father works in an office.
+sister|여동생|My sister is studying at university.
+brother|형|My brother plays soccer well.
+family|가족|I love my family very much.
+
+[음식]
+bread|빵|I eat bread for breakfast.
+milk|우유|I drink milk every morning.
+rice|쌀|Rice is a staple food in Korea.
+meat|고기|I like to eat meat.
+vegetable|채소|Vegetables are good for health.
+

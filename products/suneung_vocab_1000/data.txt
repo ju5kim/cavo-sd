@@ -1,0 +1,3417 @@
+river//강//The river flows to the sea.
+road//도로//The road is under construction.
+roar//으르렁거리다//Lions roar loudly.
+roast//굽다//Roast the chicken for an hour.
+rob//강탈하다//Thieves robbed the bank.
+robber//강도//The robber was arrested quickly.
+robbery//강도//The jewelry store robbery failed.
+robe//예복//The judge wore a black robe.
+robot//로봇//Robots work in factories.
+robust//튼튼한//He has robust health.
+rock//바위//Large rocks blocked the path.
+rocket//로켓//The rocket launched successfully.
+rod//막대//Use a metal rod for support.
+role//역할//She plays an important role.
+roll//구르다//The ball rolled down the hill.
+romance//로맨스//The novel is a historical romance.
+romantic//낭만적인//They had a romantic dinner.
+roof//지붕//The roof needs repair.
+room//방//My room is upstairs.
+root//뿌리//Tree roots grow deep underground.
+rope//밧줄//Tie the boat with rope.
+rose//장미//Red roses symbolize love.
+rot//썩다//Food rots without refrigeration.
+rotate//회전하다//Earth rotates on its axis.
+rotation//회전//Crop rotation prevents soil depletion.
+rotten//썩은//The apple is rotten.
+rough//거친//The sea was rough today.
+roughly//대략//Roughly fifty people attended.
+round//둥근//The earth is round.
+route//경로//Take the shortest route.
+routine//일상//Follow your daily routine.
+row//열//Sit in the front row.
+royal//왕실의//The royal family lives here.
+rub//문지르다//Rub your hands together.
+rubber//고무//Tires are made of rubber.
+rubbish//쓰레기//Take out the rubbish.
+rude//무례한//Don't be rude to people.
+rug//깔개//A Persian rug covered the floor.
+ruin//파괴하다//Don't ruin your reputation.
+rule//규칙//Follow the rules carefully.
+ruler//통치자, 자//The ruler measured ten centimeters.
+rumor//소문//Don't spread false rumors.
+run//달리다//I run every morning.
+rural//시골의//She grew up in rural areas.
+rush//서두르다//Don't rush through homework.
+rust//녹//Iron rusts when wet.
+ruthless//무자비한//The dictator was ruthless.
+sack//자루//Carry potatoes in sacks.
+sacred//신성한//This place is sacred.
+sacrifice//희생//Parents make sacrifices for children.
+sad//슬픈//She felt sad yesterday.
+sadness//슬픔//His death caused great sadness.
+safe//안전한//Keep your valuables safe.
+safeguard//보호하다//Safeguard children's rights.
+safety//안전//Safety comes first always.
+sail//항해하다//Ships sail across oceans.
+sailor//선원//Sailors work on ships.
+saint//성인//She was declared a saint.
+sake//목적//For your own sake, study.
+salad//샐러드//Eat a fresh green salad.
+salary//급여//Her salary increased significantly.
+sale//판매//The store has a sale.
+salesman//판매원//The salesman was persuasive.
+salt//소금//Add salt to taste.
+salute//경례하다//Soldiers salute their officers.
+salvation//구원//They sought spiritual salvation.
+same//같은//We have the same opinion.
+sample//표본//Take a blood sample.
+sanction//제재//Economic sanctions were imposed.
+sand//모래//Children play in the sand.
+sandwich//샌드위치//I ate a ham sandwich.
+sane//제정신의//No sane person would do that.
+sanitary//위생적인//Maintain sanitary conditions.
+sanitation//위생//Proper sanitation prevents disease.
+satellite//위성//Satellites orbit the earth.
+satisfaction//만족//Customer satisfaction is important.
+satisfactory//만족스러운//Your progress is satisfactory.
+satisfy//만족시키다//Nothing satisfies him completely.
+saturate//포화시키다//The ground was saturated with water.
+Saturday//토요일//Let's meet on Saturday.
+sauce//소스//Pour sauce over the pasta.
+sausage//소시지//Grill the sausages thoroughly.
+savage//야만적인//The attack was savage.
+save//구하다//Save money for emergencies.
+saving//저축//Put your savings in a bank.
+saw//톱//Use a saw to cut wood.
+say//말하다//What did you say.
+saying//속담//There's an old saying about that.
+scale//규모//The scale of destruction was enormous.
+scan//스캔하다//Scan the document and email it.
+scandal//스캔들//The political scandal shocked voters.
+scar//흉터//The accident left a scar.
+scarce//부족한//Water is scarce in deserts.
+scarcely//거의 ~않다//I could scarcely believe it.
+scarcity//부족//Food scarcity causes famine.
+scare//겁나게 하다//The loud noise scared me.
+scatter//흩뿌리다//Seeds scattered in the wind.
+scenario//시나리오//Consider the worst-case scenario.
+scene//장면//The opening scene was dramatic.
+scenery//경치//Mountain scenery is breathtaking.
+scent//향기//The flower's scent is lovely.
+schedule//일정//What's your schedule today.
+scheme//계획//They devised a clever scheme.
+scholar//학자//He's a distinguished scholar.
+scholarship//장학금//She received a full scholarship.
+school//학교//Children attend school daily.
+science//과학//Science explains natural phenomena.
+scientific//과학적인//Use the scientific method.
+scientist//과학자//Scientists conduct research.
+scissors//가위//Cut paper with scissors.
+scold//꾸짖다//Don't scold children harshly.
+scope//범위//The project's scope expanded.
+score//점수//What was your test score.
+scorn//경멸//He treated them with scorn.
+scout//정찰병//Boy scouts learn survival skills.
+scramble//기어오르다//They scrambled up the rocks.
+scrap//조각//Recycle metal scraps.
+scrape//긁다//He scraped his knee.
+scratch//긁다//Don't scratch mosquito bites.
+scream//비명지르다//She screamed in terror.
+screen//화면//The computer screen is large.
+screw//나사//Tighten the screw firmly.
+script//대본//Actors memorize their scripts.
+scripture//성서//Religious scriptures guide believers.
+sculpture//조각//The museum displays ancient sculptures.
+sea//바다//The Mediterranean Sea is beautiful.
+seal//봉인하다//Seal the envelope before mailing.
+seam//솔기//The seam split open.
+search//수색하다//Police searched for evidence.
+season//계절//Summer is my favorite season.
+seasonal//계절의//Many jobs are seasonal.
+seat//좌석//Take a seat please.
+second//두번째의//This is my second attempt.
+secondary//이차적인//Education has secondary benefits.
+secret//비밀//Keep this secret please.
+secretary//비서//The secretary scheduled meetings.
+section//부분//Read the first section carefully.
+sector//부문//The private sector employs millions.
+secure//안전한//The building is secure.
+security//안전//Airport security is strict.
+see//보다//I see what you mean.
+seed//씨앗//Plant seeds in spring.
+seek//찾다//Seek professional advice.
+seem//~처럼 보이다//You seem tired today.
+seemingly//겉보기에//The task seemed seemingly impossible.
+seize//붙잡다//Police seized illegal drugs.
+seldom//좀처럼 ~않다//I seldom eat fast food.
+select//선택하다//Select the best candidate.
+selection//선택//The selection process is rigorous.
+selective//선택적인//Be selective about friends.
+self//자아//Know yourself better.
+selfish//이기적인//Don't be selfish with others.
+sell//팔다//They sell fresh vegetables.
+semester//학기//The fall semester begins soon.
+senate//상원//The senate passed legislation.
+senator//상원의원//She's a state senator.
+send//보내다//Send me an email.
+senior//연장자//She's my senior by five years.
+sensation//감각//I lost all sensation in my foot.
+sense//감각//The five senses are important.
+sensible//분별있는//Make sensible decisions.
+sensitive//민감한//She's very sensitive to criticism.
+sensor//센서//Motion sensors detect movement.
+sentence//문장//Write complete sentences.
+sentiment//감정//Public sentiment changed quickly.
+sentimental//감상적인//Don't be overly sentimental.
+separate//분리하다//Separate the recyclables.
+separation//분리//The separation was painful.
+September//9월//School starts in September.
+sequence//순서//Follow the correct sequence.
+series//연속//A series of events occurred.
+serious//심각한//This is a serious problem.
+seriously//진지하게//Take your studies seriously.
+sermon//설교//The minister delivered a sermon.
+servant//하인//Servants worked in the mansion.
+serve//봉사하다//Serve your country proudly.
+service//서비스//Customer service is excellent.
+session//회기//The therapy session lasted an hour.
+set//놓다//Set the table for dinner.
+setting//배경//The story's setting is medieval England.
+settle//정착하다//Pioneers settled the frontier.
+settlement//정착지//The settlement grew rapidly.
+settler//정착민//Early settlers faced hardships.
+seven//일곱//There are seven days weekly.
+several//몇몇의//Several people complained.
+severe//심한//The storm caused severe damage.
+severely//심하게//He was severely injured.
+sew//바느질하다//She knows how to sew.
+sex//성//Discrimination based on sex is illegal.
+sexual//성적인//Sexual harassment is unacceptable.
+shade//그늘//Rest in the shade.
+shadow//그림자//The tree cast a shadow.
+shake//흔들다//Shake the bottle before opening.
+shall//~할 것이다//We shall overcome.
+shallow//얕은//The water is very shallow.
+shame//수치//He felt shame for lying.
+shape//모양//The building has an unusual shape.
+share//공유하다//Share your toys with others.
+shareholder//주주//Shareholders attended the meeting.
+sharp//날카로운//Be careful, the knife is sharp.
+sharply//급격히//Prices fell sharply.
+shatter//산산조각내다//The glass shattered completely.
+shave//면도하다//He shaves every morning.
+shed//흘리다//Trees shed leaves in autumn.
+sheep//양//Sheep graze in the meadow.
+sheer//순전한//It was sheer luck.
+sheet//시트//Change the bed sheets.
+shelf//선반//Books are on the shelf.
+shell//껍질//Turtles have hard shells.
+shelter//피난처//The homeless need shelter.
+shepherd//양치기//The shepherd tended his flock.
+shield//방패//Knights carried shields.
+shift//이동하다//Attitudes are shifting gradually.
+shine//빛나다//The sun shines brightly.
+ship//배//Ships transport cargo overseas.
+shipment//선적//The shipment arrived yesterday.
+shirt//셔츠//He wore a white shirt.
+shiver//떨다//She shivered in the cold.
+shock//충격//The news came as a shock.
+shoe//신발//Tie your shoe laces.
+shoot//쏘다//Don't shoot without warning.
+shop//상점//The shop closes at six.
+shopping//쇼핑//Go shopping for groceries.
+shore//해안//Waves crashed on the shore.
+short//짧은//Life is too short.
+shortage//부족//There's a water shortage.
+shortcoming//결점//Everyone has shortcomings.
+shorten//짧게 하다//Shorten the presentation.
+shortly//곧//She'll arrive shortly.
+shot//사격//He fired a warning shot.
+should//~해야 한다//You should exercise regularly.
+shoulder//어깨//He injured his shoulder.
+shout//외치다//Don't shout in class.
+show//보여주다//Show me your homework.
+shower//샤워//Take a quick shower.
+shrewd//약삭빠른//He's a shrewd businessman.
+shrink//줄어들다//Clothes shrink when washed.
+shut//닫다//Shut the door quietly.
+shy//수줍은//The child is very shy.
+sick//아픈//She stayed home because she's sick.
+sickness//질병//Motion sickness affects many travelers.
+side//쪽//Stand by my side.
+sidewalk//보도//Walk on the sidewalk.
+siege//포위//The siege lasted months.
+sigh//한숨쉬다//She sighed with relief.
+sight//시력//His sight is failing.
+sign//표지//Read the traffic sign.
+signal//신호//Wait for the signal.
+signature//서명//Sign your signature here.
+significance//중요성//The discovery has great significance.
+significant//중요한//This is a significant achievement.
+signify//의미하다//Red often signifies danger.
+silence//침묵//Silence fell over the room.
+silent//조용한//Please remain silent.
+silk//비단//The dress is made of silk.
+silly//어리석은//Don't ask silly questions.
+silver//은//Silver jewelry is beautiful.
+similar//비슷한//Our opinions are similar.
+similarity//유사성//There's a striking similarity.
+similarly//비슷하게//Similarly, she also agreed.
+simple//단순한//The answer is simple.
+simplicity//단순//Simplicity is beautiful.
+simplify//단순화하다//Simplify complex explanations.
+simply//단순히//I simply don't understand.
+simulate//모의실험하다//Computer programs simulate reality.
+simultaneous//동시의//Translation was simultaneous.
+simultaneously//동시에//Events occurred simultaneously.
+sin//죄//Lying is a sin.
+since//~이후로//I've been here since Monday.
+sincere//진심의//Please accept my sincere apology.
+sincerely//진심으로//I sincerely hope you succeed.
+sing//노래하다//Birds sing in the morning.
+singer//가수//She's a famous singer.
+single//단 하나의//Not a single person came.
+singular//단수의//Cat is singular, cats is plural.
+sink//가라앉다//Heavy objects sink in water.
+sip//홀짝이다//Sip your tea slowly.
+sir//선생님//Yes, sir, I understand.
+sister//자매//My sister is younger than me.
+sit//앉다//Please sit down.
+site//장소//The construction site is dangerous.
+situate//위치시키다//The hotel is situated downtown.
+situation//상황//The situation is serious.
+six//여섯//She has six children.
+size//크기//What size shoes do you wear.
+sketch//스케치//The artist sketched the landscape.
+ski//스키타다//They ski in the mountains.
+skill//기술//Practice improves skills.
+skilled//숙련된//He's a skilled carpenter.
+skillful//능숙한//Her performance was skillful.
+skin//피부//Protect your skin from sun.
+skip//건너뛰다//Don't skip breakfast.
+skirt//치마//She wore a long skirt.
+skull//두개골//The skull protects the brain.
+sky//하늘//The sky is clear today.
+skyscraper//고층건물//Manhattan has many skyscrapers.
+slap//때리다//He slapped his forehead.
+slate//석판//Write on the slate.
+slave//노예//Slavery was finally abolished.
+slavery//노예제도//Slavery is morally wrong.
+sleep//자다//I sleep eight hours nightly.
+sleeve//소매//Roll up your sleeves.
+slender//날씬한//She has a slender figure.
+slice//조각//Cut a slice of bread.
+slide//미끄러지다//Children slide down the slope.
+slight//약간의//There's a slight delay.
+slightly//약간//Temperatures dropped slightly.
+slim//날씬한//She has a slim build.
+slip//미끄러지다//Don't slip on ice.
+slippery//미끄러운//The floor is slippery.
+slope//경사//The mountain slope is steep.
+slow//느린//Traffic moves slowly.
+slowly//천천히//Speak slowly please.
+slum//빈민가//Many live in urban slums.
+small//작은//The room is too small.
+smart//똑똑한//She's a smart student.
+smash//박살내다//The vase smashed on the floor.
+smell//냄새//What's that awful smell.
+smile//미소짓다//She smiled warmly.
+smoke//연기//Smoke rose from the chimney.
+smooth//매끄러운//The surface is perfectly smooth.
+smuggle//밀수하다//They smuggled drugs across borders.
+snack//간식//Have a healthy snack.
+snake//뱀//Some snakes are poisonous.
+snap//딱 소리내다//He snapped his fingers.
+snapshot//스냅사진//Take a snapshot of this moment.
+snatch//낚아채다//Thieves snatched her purse.
+sneak//몰래 움직이다//Don't sneak around at night.
+sneeze//재채기하다//Cover your mouth when you sneeze.
+snow//눈//Snow fell heavily overnight.
+so//그래서//It was late, so I left.
+soak//담그다//Soak the beans overnight.
+soap//비누//Wash your hands with soap.
+soar//급등하다//Eagles soar above mountains.
+sob//흐느끼다//She sobbed uncontrollably.
+sober//술에 취하지 않은//He remained completely sober.
+sociable//사교적인//She's very sociable.
+social//사회적인//Social media influences opinions.
+socialism//사회주의//Socialism emphasizes equality.
+socialist//사회주의자//He has socialist beliefs.
+society//사회//Modern society faces challenges.
+sociology//사회학//She majored in sociology.
+sock//양말//Wear warm socks in winter.
+socket//소켓//Plug into the electrical socket.
+soda//탄산음료//Drink less soda.
+sofa//소파//Sit on the comfortable sofa.
+soft//부드러운//The pillow is very soft.
+soften//부드럽게 하다//Water softens the bread.
+software//소프트웨어//Install the latest software.
+soil//토양//Rich soil produces healthy crops.
+solar//태양의//Solar energy is renewable.
+soldier//군인//Soldiers defend the nation.
+sole//유일한//She's the sole survivor.
+solely//오직//Success depends solely on effort.
+solemn//엄숙한//The ceremony was solemn.
+solid//고체의//Ice is solid water.
+solidarity//연대//Workers showed solidarity.
+solitary//고독한//He lives a solitary life.
+solitude//고독//She enjoys solitude occasionally.
+solution//해결책//Find a practical solution.
+solve//해결하다//Solve this problem quickly.
+some//약간의//Give me some water please.
+somebody//누군가//Somebody knocked on the door.
+somehow//어떻게든//We'll manage somehow.
+someone//누군가//Someone left this here.
+something//무언가//Something is wrong.
+sometime//언젠가//Visit us sometime soon.
+sometimes//때때로//I sometimes forget names.
+somewhat//다소//The weather is somewhat cold.
+somewhere//어딘가//He lives somewhere nearby.
+son//아들//My son is ten years old.
+song//노래//That's my favorite song.
+soon//곧//Dinner will be ready soon.
+sophisticated//세련된//She has sophisticated taste.
+sore//아픈//My throat is sore.
+sorrow//슬픔//She felt deep sorrow.
+sorry//미안한//I'm sorry for being late.
+sort//종류//What sort of music do you like.
+soul//영혼//Music touches the soul.
+sound//소리//What's that strange sound.
+soup//수프//Chicken soup is comforting.
+sour//시큼한//Lemons taste sour.
+source//원천//Water is the source of life.
+south//남//Mexico is south of the United States.
+southern//남쪽의//She has a southern accent.
+sovereign//주권자//The nation is sovereign.
+sovereignty//주권//National sovereignty is important.
+sow//씨를 뿌리다//Farmers sow seeds in spring.
+space//공간//There's not enough space here.
+spacecraft//우주선//The spacecraft orbited earth.
+spacious//넓은//The apartment is spacious.
+span//기간//The bridge spans the river.
+spare//여분의//Do you have a spare key.
+spark//불꽃//Sparks flew from the fire.
+sparkle//반짝이다//Diamonds sparkle brilliantly.
+speak//말하다//Speak clearly and slowly.
+speaker//연사//The guest speaker was inspiring.
+special//특별한//Today is a special occasion.
+specialist//전문가//Consult a medical specialist.
+specialize//전문으로 하다//She specializes in pediatrics.
+specially//특별히//This was specially designed.
+species//종//Many species face extinction.
+specific//구체적인//Give me specific examples.
+specifically//구체적으로//I specifically requested that.
+specification//명세//Read the product specifications.
+specify//명시하다//Please specify your requirements.
+specimen//표본//The museum displays rare specimens.
+spectacle//구경거리//The parade was quite a spectacle.
+spectacular//장관의//The fireworks were spectacular.
+spectator//관중//Thousands of spectators attended.
+spectrum//범위//The political spectrum is broad.
+speculate//추측하다//Don't speculate without evidence.
+speculation//추측//Stock speculation is risky.
+speech//연설//The president delivered a speech.
+speed//속도//Reduce your speed immediately.
+spell//철자하다//How do you spell your name.
+spelling//철자//Check your spelling carefully.
+spend//쓰다//Don't spend all your money.
+sphere//구//The earth is a sphere.
+spice//향신료//Indian food uses many spices.
+spider//거미//Some people fear spiders.
+spill//흘리다//Don't spill the milk.
+spin//회전시키다//The wheels spin rapidly.
+spine//척추//The spine supports the body.
+spirit//정신//She has an adventurous spirit.
+spiritual//영적인//Meditation is spiritually beneficial.
+spit//침을 뱉다//Don't spit on the ground.
+spite//악의//He acted out of spite.
+splash//튀기다//Water splashed everywhere.
+splendid//훌륭한//What a splendid idea.
+split//쪼개다//Split the wood carefully.
+spoil//망치다//Don't spoil the surprise.
+spokesman//대변인//The company spokesman made a statement.
+sponsor//후원하다//Corporations sponsor sporting events.
+spontaneous//자발적인//Her reaction was completely spontaneous.
+spoon//숟가락//Eat soup with a spoon.
+sport//운동//Soccer is a popular sport.
+spot//지점//This is a perfect spot.
+spouse//배우자//Bring your spouse to the party.
+spray//분무하다//Spray water on the plants.
+spread//퍼뜨리다//Diseases spread quickly.
+spring//봄//Flowers bloom in spring.
+sprinkle//뿌리다//Sprinkle salt on the food.
+spy//스파이//Spies gather secret information.
+squad//분대//The police squad arrived quickly.
+square//정사각형//The town square was crowded.
+squeeze//짜다//Squeeze the lemon gently.
+squirrel//다람쥐//Squirrels gather nuts.
+stab//찔러 죽이다//He was stabbed fatally.
+stability//안정//Economic stability is important.
+stable//안정된//The patient's condition is stable.
+stack//쌓다//Stack the books neatly.
+stadium//경기장//The stadium holds fifty thousand.
+staff//직원//The hotel staff is friendly.
+stage//단계//The project is in its final stage.
+stagger//비틀거리다//He staggered from exhaustion.
+stain//얼룩//The wine left a stain.
+stair//계단//Walk up the stairs carefully.
+staircase//계단//The staircase leads upstairs.
+stake//지분//He has a stake in the company.
+stale//신선하지 않은//The bread is stale.
+stall//가판//They sell vegetables at market stalls.
+stamp//우표//Put a stamp on the envelope.
+stand//서다//Please stand up.
+standard//기준//Quality standards must be met.
+standardize//표준화하다//Standardize testing procedures.
+standing//지위//She has high social standing.
+standpoint//관점//From my standpoint, it's correct.
+star//별//Stars twinkle at night.
+stare//응시하다//Don't stare at people rudely.
+start//시작하다//Let's start the meeting now.
+startle//놀라게 하다//The loud noise startled me.
+starve//굶주리다//Millions starve in poverty.
+state//상태//What's the current state of affairs.
+statement//진술//Make an official statement.
+statesman//정치가//Churchill was a great statesman.
+static//정적인//Static electricity shocked me.
+station//역//The train station is nearby.
+stationary//정지한//The car remained stationary.
+stationery//문구//Buy stationery at the store.
+statistic//통계//Statistics show increasing rates.
+statistical//통계의//Statistical analysis reveals patterns.
+statue//동상//The statue commemorates heroes.
+status//지위//What's your marital status.
+statute//법령//According to federal statute.
+stay//머무르다//Stay calm during emergencies.
+steady//꾸준한//Maintain steady progress.
+steak//스테이크//I ordered a medium-rare steak.
+steal//훔치다//Stealing is morally wrong.
+steam//증기//Steam rises from hot water.
+steel//강철//Steel is strong and durable.
+steep//가파른//The mountain path is steep.
+steer//조종하다//Steer the car carefully.
+stem//줄기//The flower's stem is long.
+step//걸음//Take one step forward.
+stereo//스테레오//Listen to music on the stereo.
+stereotype//고정관념//Avoid gender stereotypes.
+stern//엄격한//The teacher is very stern.
+stick//막대기//Use a walking stick.
+sticky//끈적끈적한//The candy is sticky.
+stiff//뻣뻣한//My neck feels stiff.
+still//여전히//She's still working.
+stimulate//자극하다//Exercise stimulates circulation.
+sting//쏘다//Bees can sting painfully.
+stir//휘젓다//Stir the soup constantly.
+stock//주식//Stock prices fluctuated.
+stocking//스타킹//She wore silk stockings.
+stomach//위//My stomach hurts badly.
+stone//돌//Ancient buildings used stone.
+stool//의자//Sit on the wooden stool.
+stoop//구부리다//Don't stoop while walking.
+stop//멈추다//Stop talking immediately.
+storage//저장//We need more storage space.
+store//가게//The grocery store closes early.
+storey//층//The building has ten storeys.
+storm//폭풍//The storm damaged buildings.
+story//이야기//Tell me a bedtime story.
+stout//튼튼한//He's a stout man.
+stove//난로//Cook dinner on the stove.
+straight//똑바른//Draw a straight line.
+straightforward//솔직한//Be straightforward with me.
+strain//긴장//Excessive work causes strain.
+strait//해협//Ships pass through the strait.
+strange//이상한//That's very strange behavior.
+stranger//낯선 사람//Never talk to strangers.
+strangle//목 졸라 죽이다//The victim was strangled.
+strap//끈//Fasten the safety strap.
+strategic//전략적인//Location is strategically important.
+strategy//전략//Develop a winning strategy.
+straw//빨대//Drink juice through a straw.
+strawberry//딸기//Strawberries are delicious.
+stray//길을 잃다//The dog strayed from home.
+stream//개울//A stream flows through the valley.
+street//거리//Cross the street carefully.
+strength//힘//Physical strength is important.
+strengthen//강화하다//Exercise strengthens muscles.
+strenuous//힘든//Mountain climbing is strenuous.
+stress//스트레스//Work causes excessive stress.
+stretch//늘리다//Stretch before exercising.
+strict//엄격한//The rules are very strict.
+strictly//엄격히//Smoking is strictly forbidden.
+stride//성큼성큼 걷다//He strode confidently forward.
+strike//치다//Lightning struck the tree.
+striking//눈에 띄는//There's a striking resemblance.
+string//끈//Tie it with string.
+strip//벗기다//Strip old paint from walls.
+stripe//줄무늬//The flag has red stripes.
+strive//노력하다//Strive for excellence always.
+stroke//뇌졸중//He suffered a severe stroke.
+stroll//산책하다//They strolled through the park.
+strong//강한//He's physically very strong.
+strongly//강하게//I strongly disagree with that.
+structure//구조//The building's structure is sound.
+struggle//투쟁하다//They struggled for freedom.
+stubborn//완고한//He's too stubborn to change.
+student//학생//The student studies diligently.
+studio//스튜디오//Artists work in studios.
+study//공부하다//Study hard for exams.
+stuff//물건//Put your stuff away.
+stumble//비틀거리다//I stumbled on the stairs.
+stupid//어리석은//That was a stupid mistake.
+style//스타일//Her clothing style is unique.
+subconscious//잠재의식//Subconscious thoughts influence behavior.
+subdivide//세분하다//Subdivide the property carefully.
+subject//과목//Math is my favorite subject.
+subjective//주관적인//Beauty is subjective.
+submarine//잠수함//Submarines travel underwater.
+submerge//잠기다//The submarine submerged quickly.
+submit//제출하다//Submit your homework tomorrow.
+subordinate//부하//Respect your subordinates.
+subscribe//구독하다//Subscribe to the magazine.
+subsequent//그 후의//Subsequent events proved him right.
+subsequently//그 후에//Subsequently, conditions improved.
+subside//가라앉다//The storm gradually subsided.
+subsidy//보조금//Government subsidies help farmers.
+substance//물질//Water is a chemical substance.
+substantial//상당한//She made substantial progress.
+substitute//대체하다//Substitute honey for sugar.
+subtle//미묘한//There's a subtle difference.
+subtract//빼다//Subtract five from ten.
+suburb//교외//They live in the suburbs.
+suburban//교외의//Suburban life is quiet.
+subway//지하철//Take the subway downtown.
+succeed//성공하다//Work hard to succeed.
+success//성공//Success requires dedication.
+successful//성공한//She's a successful entrepreneur.
+successfully//성공적으로//The surgery was completed successfully.
+succession//연속//A succession of events followed.
+successive//연속적인//Three successive victories boosted morale.
+successor//후계자//She is his successor.
+such//그러한//I've never seen such beauty.
+suck//빨다//Babies suck their thumbs.
+sudden//갑작스러운//The sudden noise startled everyone.
+suddenly//갑자기//Suddenly, the lights went out.
+suffer//고통받다//Many people suffer from poverty.
+sufficient//충분한//Do we have sufficient food.
+sufficiently//충분히//The room is sufficiently large.
+suffix//접미사//The suffix changes word meaning.
+sugar//설탕//Too much sugar is unhealthy.
+suggest//제안하다//I suggest we leave early.
+suggestion//제안//That's an excellent suggestion.
+suicide//자살//Suicide prevention is crucial.
+suit//정장//He wore a business suit.
+suitable//적합한//This location is suitable.
+suitcase//여행가방//Pack your suitcase carefully.
+sum//합계//Calculate the total sum.
+summarize//요약하다//Summarize the main points.
+summary//요약//Write a brief summary.
+summer//여름//Summer is hot and humid.
+summit//정상//They reached the mountain summit.
+summon//소환하다//The judge summoned witnesses.
+sun//태양//The sun provides warmth.
+Sunday//일요일//Sunday is a day of rest.
+sunlight//햇빛//Plants need sunlight to grow.
+sunny//화창한//It's a beautiful sunny day.
+sunrise//일출//Watch the spectacular sunrise.
+sunset//일몰//The sunset was breathtaking.
+sunshine//햇살//Enjoy the warm sunshine.
+super//최고의//That's a super idea.
+superb//훌륭한//The performance was superb.
+superficial//표면적인//His knowledge is superficial.
+superintendent//관리자//The building superintendent fixes problems.
+superior//우수한//This product is superior quality.
+superiority//우월//They claimed superiority.
+supermarket//슈퍼마켓//Shop at the supermarket weekly.
+supersede//대체하다//New laws supersede old ones.
+superstition//미신//Many superstitions lack evidence.
+supervise//감독하다//Teachers supervise students carefully.
+supervision//감독//Children need adult supervision.
+supervisor//감독자//Report to your supervisor.
+supper//저녁식사//What's for supper tonight.
+supplement//보충하다//Vitamins supplement your diet.
+supply//공급하다//Farmers supply fresh produce.
+support//지지하다//I support your decision completely.
+supporter//지지자//Political supporters rallied enthusiastically.
+suppose//가정하다//I suppose you're right.
+suppress//억압하다//Don't suppress your emotions.
+supreme//최고의//The supreme court made a ruling.
+sure//확실한//Are you absolutely sure.
+surely//확실히//Surely, you must understand.
+surface//표면//The lake's surface was calm.
+surgeon//외과의사//The surgeon performed the operation.
+surgery//수술//She needs heart surgery.
+surname//성//What's your surname.
+surplus//잉여//There's a food surplus.
+surprise//놀라게 하다//The news surprised everyone.
+surprising//놀라운//That's a surprising result.
+surprisingly//놀랍게도//Surprisingly, he passed the exam.
+surrender//항복하다//The enemy refused to surrender.
+surround//둘러싸다//Mountains surround the valley.
+surrounding//주변의//Explore the surrounding area.
+surroundings//환경//The surroundings are beautiful.
+survey//조사//Conduct a customer survey.
+survival//생존//Survival instincts are strong.
+survive//살아남다//Only the fittest survive.
+survivor//생존자//She's a cancer survivor.
+suspect//의심하다//I suspect he's lying.
+suspend//중단시키다//Classes were suspended temporarily.
+suspense//긴장감//The movie created suspense.
+suspension//정학//He received a three-day suspension.
+suspicion//의심//Suspicion fell on him.
+suspicious//의심스러운//His behavior seems suspicious.
+sustain//유지하다//Sustain economic growth.
+swallow//삼키다//Chew before you swallow.
+swamp//늪//Alligators live in swamps.
+swap//교환하다//Let's swap seats.
+swear//맹세하다//Witnesses swear to tell truth.
+sweat//땀//Exercise makes you sweat.
+sweater//스웨터//Wear a warm sweater.
+sweep//쓸다//Sweep the floor clean.
+sweet//달콤한//Honey tastes very sweet.
+swell//부풀다//Her ankle swelled badly.
+swift//빠른//Take swift action immediately.
+swiftly//빠르게//Time passes swiftly.
+swim//수영하다//I swim every morning.
+swimmer//수영선수//She's an Olympic swimmer.
+swing//그네//Children play on swings.
+switch//스위치//Flip the light switch.
+sword//검//Knights fought with swords.
+symbol//상징//The dove symbolizes peace.
+symbolic//상징적인//This gesture is symbolic.
+symbolize//상징하다//Red roses symbolize love.
+symmetrical//대칭의//The design is perfectly symmetrical.
+symmetry//대칭//Nature displays beautiful symmetry.
+sympathetic//동정적인//She was very sympathetic.
+sympathize//동정하다//I sympathize with your loss.
+sympathy//동정//Express sympathy to families.
+symphony//교향곡//The orchestra played a symphony.
+symptom//증상//Fever is a common symptom.
+syndrome//증후군//He has chronic fatigue syndrome.
+synonym//동의어//Happy and joyful are synonyms.
+synthetic//합성의//Synthetic fabrics are durable.
+system//체계//The education system needs reform.
+systematic//체계적인//Use a systematic approach.
+table//탁자//Set the table for dinner.
+tablet//정제//Take two tablets daily.
+tackle//다루다//Tackle problems immediately.
+tactic//전술//Military tactics determine outcomes.
+tag//꼬리표//Read the price tag.
+tail//꼬리//Dogs wag their tails.
+tailor//재단사//The tailor made a suit.
+take//가져가다//Take your umbrella with you.
+tale//이야기//She told fairy tales.
+talent//재능//He has musical talent.
+talented//재능있는//She's a talented artist.
+talk//이야기하다//Let's talk about this.
+tall//키큰//He's unusually tall.
+tame//길들이다//Wild animals are difficult to tame.
+tan//황갈색의//She has a nice tan.
+tangible//만질 수 있는//Provide tangible evidence.
+tank//탱크//Military tanks advanced forward.
+tap//가볍게 두드리다//Someone tapped my shoulder.
+tape//테이프//Use tape to seal it.
+target//목표//Hit the target accurately.
+tariff//관세//Import tariffs protect industries.
+task//과업//Complete this task today.
+taste//맛//The soup tastes delicious.
+tax//세금//Pay your taxes annually.
+taxation//과세//Taxation funds government services.
+taxi//택시//Take a taxi downtown.
+tea//차//Would you like some tea.
+teach//가르치다//Teachers teach students daily.
+teacher//교사//My teacher is very patient.
+teaching//교육//Teaching is a noble profession.
+team//팀//Our team won the championship.
+tear//찢다//Don't tear the paper.
+tease//놀리다//Don't tease your sister.
+technical//기술적인//This requires technical expertise.
+technician//기술자//The technician repaired the equipment.
+technique//기법//Practice proper technique.
+technology//기술//Technology advances rapidly.
+teenager//십대//Teenagers face peer pressure.
+telegram//전보//Send an urgent telegram.
+telegraph//전신//The telegraph revolutionized communication.
+telephone//전화//Answer the telephone please.
+telescope//망원경//Astronomers use powerful telescopes.
+television//텔레비전//Watch the news on television.
+tell//말하다//Tell me the truth.
+temper//성질//Control your temper.
+temperature//온도//Check the water temperature.
+temple//사원//Buddhist temples are peaceful.
+temporary//일시적인//This is a temporary solution.
+temporarily//일시적으로//The store is temporarily closed.
+tempt//유혹하다//Don't tempt fate recklessly.
+temptation//유혹//Resist temptation to cheat.
+ten//열//Count to ten slowly.
+tend//경향이 있다//Prices tend to increase.
+tendency//경향//There's a tendency toward obesity.
+tender//부드러운//The meat is very tender.
+tense//긴장한//She felt tense before speaking.
+tension//긴장//Tension between nations increased.
+tent//텐트//Camp in a waterproof tent.
+term//기간//The school term ends soon.
+terminal//종점//The bus terminal is crowded.
+terminate//끝내다//Terminate the contract immediately.
+termination//종료//Contract termination requires notice.
+terrace//테라스//Dine on the outdoor terrace.
+terrain//지형//The terrain is mountainous.
+terrible//끔찍한//The accident was terrible.
+terribly//몹시//I'm terribly sorry.
+terrific//굉장한//That's a terrific idea.
+terrify//겁나게 하다//Horror movies terrify me.
+territory//영토//Nations defend their territory.
+terror//공포//The attack caused terror.
+terrorism//테러리즘//Terrorism threatens global security.
+terrorist//테러리스트//Terrorists were arrested.
+test//시험//Study hard for the test.
+testify//증언하다//Witnesses testified in court.
+testimony//증언//His testimony was credible.
+text//본문//Read the text carefully.
+textbook//교과서//Buy required textbooks.
+textile//직물//The textile industry employs millions.
+texture//질감//The fabric has rough texture.
+than//~보다//She's taller than me.
+thank//감사하다//Thank you very much.
+thankful//감사하는//I'm thankful for everything.
+that//저것//That is my book.
+the//그//The sun rises daily.
+theater//극장//Watch movies at the theater.
+theatrical//연극의//Her gestures are theatrical.
+theft//절도//Report the theft immediately.
+their//그들의//That's their house.
+them//그들을//Tell them the news.
+theme//주제//The essay's theme is friendship.
+themselves//그들 자신//They did it themselves.
+then//그때//We lived there then.
+theology//신학//He studied theology extensively.
+theoretical//이론적인//This is purely theoretical.
+theory//이론//Einstein's theory revolutionized physics.
+therapy//치료//Physical therapy helps recovery.
+there//거기에//Put it over there.
+therefore//그러므로//Therefore, we must act.
+thermometer//온도계//The thermometer shows fever.
+these//이것들//These books are mine.
+they//그들//They arrived late yesterday.
+thick//두꺼운//The wall is thick.
+thief//도둑//Police caught the thief.
+thin//얇은//The ice is dangerously thin.
+thing//것//What's that thing called.
+think//생각하다//Think before you speak.
+thinker//사상가//He's an independent thinker.
+third//세번째의//This is my third attempt.
+thirst//갈증//Drink water to quench thirst.
+thirsty//목마른//I'm very thirsty.
+thirteen//열셋//She's thirteen years old.
+thirty//서른//He's thirty years old.
+this//이것//This is my car.
+thorough//철저한//Conduct a thorough investigation.
+thoroughly//철저히//Clean thoroughly before guests arrive.
+those//저것들//Those are expensive shoes.
+though//비록 ~일지라도//Though tired, she continued.
+thought//생각//That's an interesting thought.
+thoughtful//사려깊은//He's very thoughtful.
+thousand//천//One thousand people attended.
+thread//실//Sew with strong thread.
+threat//위협//Terrorism poses a threat.
+threaten//위협하다//Don't threaten people.
+three//셋//She has three children.
+threshold//문턱//Cross the threshold carefully.
+thrift//절약//Thrift is a virtue.
+thrifty//검소한//She's very thrifty.
+thrill//스릴//Skydiving provides a thrill.
+thrive//번창하다//Businesses thrive in cities.
+throat//목//My throat hurts badly.
+throne//왕좌//The king sat on his throne.
+through//~를 통하여//Walk through the door.
+throughout//도처에//It rained throughout the day.
+throw//던지다//Throw the ball high.
+thrust//밀다//He thrust the sword forward.
+thumb//엄지손가락//He injured his thumb.
+thunder//천둥//Thunder follows lightning.
+Thursday//목요일//The meeting is on Thursday.
+thus//그러므로//Thus, we can conclude.
+ticket//표//Buy tickets in advance.
+tide//조수//The tide is rising.
+tidy//깔끔한//Keep your room tidy.
+tie//묶다//Tie your shoelaces.
+tiger//호랑이//Tigers are endangered animals.
+tight//꽉 끼는//These shoes are too tight.
+tighten//조이다//Tighten the screws firmly.
+tile//타일//Bathroom tiles are ceramic.
+till//~까지//Wait till tomorrow.
+timber//목재//They harvest timber sustainably.
+time//시간//What time is it.
+timely//시기적절한//Your arrival was timely.
+timetable//시간표//Check the train timetable.
+timid//소심한//Don't be timid about speaking.
+tin//주석//Cans are made of tin.
+tiny//아주 작은//Ants are tiny insects.
+tip//끝//The mountain's tip is snowy.
+tire//타이어//The car needs new tires.
+tired//피곤한//I'm extremely tired today.
+tiresome//지루한//The work is tiresome.
+tissue//조직//Donate tissue for research.
+title//제목//What's the book's title.
+to//~에//Go to school daily.
+toast//토스트//Eat toast for breakfast.
+tobacco//담배//Tobacco causes lung cancer.
+today//오늘//Today is Monday.
+toe//발가락//He stubbed his toe.
+together//함께//Let's work together.
+toil//수고//After much toil, they succeeded.
+toilet//화장실//Use the public toilet.
+token//표시//This is a token of appreciation.
+tolerance//관용//Practice religious tolerance.
+tolerant//관대한//Be tolerant of differences.
+tolerate//참다//I cannot tolerate rudeness.
+toll//통행료//Pay the highway toll.
+tomato//토마토//Tomatoes are technically fruit.
+tomb//무덤//Ancient tombs contain treasures.
+tomorrow//내일//See you tomorrow morning.
+ton//톤//The truck weighs five tons.
+tone//어조//Use a polite tone.
+tongue//혀//Stick out your tongue.
+tonight//오늘밤//Let's meet tonight.
+too//너무//The coffee is too hot.
+tool//도구//Use the right tool.
+tooth//이//Brush your teeth twice daily.
+top//꼭대기//Climb to the mountain top.
+topic//주제//Choose an interesting topic.
+torch//횃불//Light the torch carefully.
+torment//고통//The pain caused torment.
+torture//고문//Torture is inhumane.
+toss//던지다//Toss the coin high.
+total//전체의//Calculate the total cost.
+totally//전적으로//I totally agree with you.
+touch//만지다//Don't touch hot surfaces.
+tough//단단한//The meat is too tough.
+tour//여행//Take a guided tour.
+tourism//관광//Tourism boosts the economy.
+tourist//관광객//Tourists visit famous landmarks.
+tournament//토너먼트//The tennis tournament starts tomorrow.
+tow//끌다//Tow the broken car.
+toward//~를 향하여//Walk toward the light.
+towards//~를 향하여//Move towards the exit.
+towel//수건//Dry yourself with a towel.
+tower//탑//The tower is very tall.
+town//마을//This town has 5000 residents.
+toy//장난감//Children love toys.
+trace//흔적//Police found no trace.
+track//추적하다//Track the package online.
+trade//무역//International trade benefits nations.
+trader//상인//Stock traders work long hours.
+tradition//전통//Respect cultural traditions.
+traditional//전통적인//Wear traditional clothing.
+traffic//교통//Traffic congestion wastes time.
+tragedy//비극//The accident was a tragedy.
+tragic//비극적인//His death was tragic.
+trail//오솔길//Follow the hiking trail.
+train//기차//The train departs at noon.
+training//훈련//Military training is rigorous.
+trait//특성//Honesty is an admirable trait.
+traitor//배신자//He was branded a traitor.
+tramp//짓밟다//Don't tramp through mud.
+transaction//거래//Complete the financial transaction.
+transcend//초월하다//Art transcends language barriers.
+transfer//이동시키다//Transfer money electronically.
+transform//변형시키다//Caterpillars transform into butterflies.
+transformation//변형//The transformation was remarkable.
+transit//통과//Goods are in transit.
+transition//전환//The transition was smooth.
+translate//번역하다//Translate this document accurately.
+translation//번역//Machine translation improves constantly.
+translator//번역가//Professional translators are essential.
+transmission//전달//Disease transmission occurs rapidly.
+transmit//전달하다//Satellites transmit signals globally.
+transparent//투명한//Glass is transparent.
+transplant//이식하다//He needs a kidney transplant.
+transport//수송하다//Trucks transport goods nationwide.
+transportation//수송//Public transportation is efficient.
+trap//덫//Set a trap for mice.
+trash//쓰레기//Empty the trash daily.
+travel//여행하다//Travel broadens your perspective.
+traveler//여행자//Solo travelers visit worldwide.
+tray//쟁반//Serve food on a tray.
+treason//반역//Treason is punishable severely.
+treasure//보물//Pirates buried treasure.
+treasury//재무부//The Treasury manages finances.
+treat//대하다//Treat everyone with respect.
+treatment//치료//Medical treatment is expensive.
+treaty//조약//Nations signed the peace treaty.
+tree//나무//Trees provide oxygen.
+tremble//떨다//She trembled with fear.
+tremendous//엄청난//The storm caused tremendous damage.
+trench//참호//Soldiers fought from trenches.
+trend//경향//Fashion trends change constantly.
+trial//재판//The trial lasted weeks.
+triangle//삼각형//Draw an equilateral triangle.
+triangular//삼각형의//The sign is triangular.
+tribe//부족//Indigenous tribes preserve traditions.
+tribute//헌사//Pay tribute to veterans.
+trick//속임수//Don't fall for tricks.
+trickle//똑똑 떨어지다//Water trickled slowly.
+tricky//까다로운//This problem is tricky.
+trigger//방아쇠//Pull the trigger carefully.
+trim//다듬다//Trim the hedge neatly.
+trip//여행//Enjoy your vacation trip.
+triple//세배의//Sales tripled this year.
+triumph//승리//They celebrated their triumph.
+trivial//사소한//Don't worry about trivial matters.
+trolley//트롤리//Push the shopping trolley.
+troop//군대//Troops were deployed overseas.
+trophy//트로피//The champion received a trophy.
+tropical//열대의//Tropical climates are humid.
+trouble//문제//Are you having trouble.
+troublesome//귀찮은//This situation is troublesome.
+trousers//바지//He wore black trousers.
+truck//트럭//Trucks deliver goods daily.
+true//진실한//Tell me the true story.
+truly//진실로//I'm truly sorry.
+trumpet//트럼펫//He plays the trumpet.
+trunk//줄기//The tree trunk is thick.
+trust//신뢰//Trust is essential in relationships.
+trustworthy//믿을만한//She's completely trustworthy.
+truth//진실//Always tell the truth.
+truthful//진실한//Be truthful in testimony.
+try//시도하다//Try your best always.
+tube//관//Water flows through tubes.
+Tuesday//화요일//The meeting is on Tuesday.
+tug//잡아당기다//Don't tug my sleeve.
+tuition//수업료//College tuition is expensive.
+tulip//튤립//Tulips bloom in spring.
+tumble//넘어지다//He tumbled down stairs.
+tumor//종양//The tumor was benign.
+tune//곡조//Hum a familiar tune.
+tunnel//터널//Drive through the tunnel.
+turbulent//격동하는//The flight was turbulent.
+turkey//칠면조//Roast turkey for Thanksgiving.
+turn//돌다//Turn left at the corner.
+turnover//이직률//Employee turnover is high.
+tutor//가정교사//Hire a math tutor.
+twelve//열둘//There are twelve months.
+twenty//스물//She's twenty years old.
+twice//두번//Visit the dentist twice yearly.
+twin//쌍둥이//They are identical twins.
+twist//비틀다//Twist the cap open.
+two//둘//I have two brothers.
+type//유형//What type of music do you like.
+typical//전형적인//This is typical behavior.
+typically//전형적으로//He typically arrives late.
+tyranny//폭정//Overthrow tyranny and oppression.
+tyrant//폭군//The tyrant ruled cruelly.
+ugly//못생긴//Beauty is never ugly.
+ultimate//궁극적인//What's your ultimate goal.
+ultimately//궁극적으로//Ultimately, you must decide.
+umbrella//우산//Take an umbrella today.
+unable//할 수 없는//I'm unable to attend.
+unacceptable//받아들일 수 없는//This behavior is unacceptable.
+unanimous//만장일치의//The vote was unanimous.
+unanswered//답변되지 않은//Questions remain unanswered.
+unavoidable//피할 수 없는//Delays were unavoidable.
+unaware//알지 못하는//I was completely unaware.
+unbearable//참을 수 없는//The pain is unbearable.
+uncertain//불확실한//The outcome is uncertain.
+uncertainty//불확실성//Economic uncertainty affects investment.
+uncle//삼촌//My uncle lives abroad.
+uncomfortable//불편한//These shoes are uncomfortable.
+uncommon//흔하지 않은//Such honesty is uncommon.
+unconscious//무의식의//He was knocked unconscious.
+uncover//드러내다//Investigations uncovered corruption.
+under//~아래에//Hide under the table.
+undergo//겪다//She must undergo surgery.
+undergraduate//학부생//He's an undergraduate student.
+underground//지하의//Take the underground railway.
+underlie//기초가 되다//Trust underlies good relationships.
+underline//밑줄긋다//Underline important words.
+underlying//근본적인//Address underlying causes.
+undermine//약화시키다//Don't undermine his authority.
+underneath//~아래에//Look underneath the bed.
+understand//이해하다//Do you understand the question.
+understanding//이해//Mutual understanding is important.
+undertake//착수하다//Undertake this project carefully.
+undo//취소하다//Undo your mistakes quickly.
+undoubtedly//의심할 여지없이//She's undoubtedly talented.
+uneasy//불안한//I feel uneasy about this.
+unemployed//실업의//Many remain unemployed.
+unemployment//실업//Unemployment rates decreased.
+unequal//불평등한//Income distribution is unequal.
+unexpected//예상치 못한//His arrival was unexpected.
+unexpectedly//예상외로//She arrived unexpectedly early.
+unfair//불공정한//The decision was unfair.
+unfamiliar//익숙하지 않은//This place is unfamiliar.
+unfavorable//불리한//Weather conditions are unfavorable.
+unfortunate//불행한//That's an unfortunate accident.
+unfortunately//불행하게도//Unfortunately, we lost.
+unhappy//불행한//She seems very unhappy.
+uniform//제복//Students wear school uniforms.
+unify//통일하다//Efforts to unify continue.
+union//연합//Labor unions protect workers.
+unique//독특한//Everyone is unique.
+unit//단위//The meter is a unit of length.
+unite//연합하다//Citizens must unite together.
+united//연합한//The United Nations promotes peace.
+unity//단결//National unity is essential.
+universal//보편적인//Education is a universal right.
+universe//우주//The universe is infinite.
+university//대학교//She attends university.
+unjust//부당한//The punishment was unjust.
+unknown//알려지지 않은//The author is unknown.
+unless//~하지 않는 한//Don't go unless necessary.
+unlike//~와 다른//Unlike her, I disagree.
+unlikely//있을 것 같지 않은//Success seems unlikely.
+unlimited//무제한의//Enjoy unlimited internet access.
+unload//짐을 내리다//Unload the truck quickly.
+unlock//자물쇠를 열다//Unlock the door please.
+unnecessary//불필요한//That comment was unnecessary.
+unpleasant//불쾌한//The smell is unpleasant.
+unpopular//인기없는//The decision was unpopular.
+unprecedented//전례없는//This is unprecedented success.
+unpredictable//예측할 수 없는//Weather is increasingly unpredictable.
+unreasonable//불합리한//Your demands are unreasonable.
+unrest//불안//Social unrest spread rapidly.
+unsafe//안전하지 않은//This building is unsafe.
+unsatisfactory//불만족스러운//Results were unsatisfactory.
+unstable//불안정한//The political situation is unstable.
+unsuccessful//실패한//The attempt was unsuccessful.
+unsuitable//부적합한//This job is unsuitable.
+until//~까지//Wait until tomorrow.
+unusual//비정상적인//This is unusual behavior.
+unusually//비정상적으로//Today is unusually warm.
+unveil//공개하다//They will unveil plans tomorrow.
+unwilling//마지못해 하는//He's unwilling to help.
+up//위로//Look up at the sky.
+update//최신정보//Update your software regularly.
+upgrade//업그레이드하다//Upgrade to premium service.
+uphold//지지하다//Courts uphold constitutional rights.
+upon//~위에//Once upon a time.
+upper//위의//Live on the upper floor.
+upright//똑바른//Stand upright with good posture.
+uprising//봉기//The uprising was suppressed.
+uproar//소동//The announcement caused an uproar.
+upset//속상한//Don't get upset easily.
+upside//윗면//Turn it upside down.
+upstairs//위층에//My bedroom is upstairs.
+upward//위쪽으로//Prices moved upward steadily.
+urban//도시의//Urban populations are growing.
+urge//강권하다//I urge you to reconsider.
+urgency//긴급//This requires urgent attention.
+urgent//긴급한//This is an urgent matter.
+us//우리를//Help us please.
+usage//사용//Proper word usage matters.
+use//사용하다//Use this tool carefully.
+used//사용된//Buy used textbooks.
+useful//유용한//This information is useful.
+useless//쓸모없는//This machine is useless.
+user//사용자//Computer users need training.
+usual//보통의//Arrive at the usual time.
+usually//보통//I usually wake at seven.
+utensil//기구//Kitchen utensils are essential.
+utility//유용성//Public utilities provide services.
+utilize//활용하다//Utilize all available resources.
+utmost//최대의//Exercise utmost caution.
+utter//완전한//The project was an utter failure.
+utterly//완전히//I'm utterly exhausted.
+vacant//비어있는//The apartment is vacant.
+vacation//휴가//Enjoy your summer vacation.
+vaccinate//예방주사를 놓다//Vaccinate children against diseases.
+vacuum//진공//Nature abhors a vacuum.
+vague//모호한//His answer was vague.
+vain//헛된//Their efforts were in vain.
+valid//유효한//Your passport is still valid.
+validity//타당성//Question the study's validity.
+valley//계곡//Rivers flow through valleys.
+valuable//귀중한//Time is extremely valuable.
+value//가치//What's the property's value.
+van//밴//Rent a moving van.
+vanish//사라지다//The ship vanished mysteriously.
+vanity//허영//Vanity is a weakness.
+vapor//증기//Water vapor forms clouds.
+variable//변수//Temperature is a variable.
+variation//변화//There's considerable variation.
+varied//다양한//She has varied interests.
+variety//다양성//Variety is the spice of life.
+various//다양한//Various options are available.
+vary//다르다//Opinions vary considerably.
+vase//꽃병//Put flowers in the vase.
+vast//광대한//The desert is vast.
+vegetable//채소//Eat fresh vegetables daily.
+vegetation//식물//Tropical vegetation is lush.
+vehicle//차량//Park your vehicle here.
+veil//베일//The bride wore a veil.
+vein//정맥//Blood flows through veins.
+velocity//속도//Calculate the velocity accurately.
+velvet//벨벳//The fabric is soft velvet.
+venture//모험사업//Start a business venture.
+verb//동사//Run is an action verb.
+verdict//평결//The jury reached a verdict.
+verge//가장자리//She's on the verge of tears.
+verification//확인//Identity verification is required.
+verify//확인하다//Verify the information carefully.
+versatile//다재다능한//She's a versatile performer.
+verse//시//Recite a verse from the poem.
+version//판//Download the latest version.
+versus//대//It's team A versus team B.
+vertical//수직의//Draw a vertical line.
+very//매우//The test was very difficult.
+vessel//그릇//Pour liquid into a vessel.
+veteran//재향군인//Veterans deserve our respect.
+veto//거부권//The president used veto power.
+via//~경유로//Travel via Hong Kong.
+vibrate//진동하다//The phone vibrates when ringing.
+vice//악덕//Gambling is a vice.
+vicinity//근처//Schools are in the vicinity.
+vicious//사악한//The attack was vicious.
+victim//피해자//Crime victims need support.
+victory//승리//They celebrated the victory.
+video//비디오//Watch the instructional video.
+view//견해//What's your view on this.
+viewpoint//관점//Consider different viewpoints.
+vigorous//활기찬//Take vigorous exercise daily.
+village//마을//She grew up in a small village.
+violate//위반하다//Don't violate traffic laws.
+violation//위반//This is a serious violation.
+violence//폭력//Domestic violence is unacceptable.perfectly//완벽하게//I understand perfectly.
+perform//수행하다//Actors perform on stage.
+performance//공연, 성과//Her performance was excellent.
+perfume//향수//She wears expensive perfume.
+perhaps//아마도//Perhaps we should wait.
+period//기간//The Renaissance period was remarkable.
+periodic//주기적인//Schedule periodic checkups.
+perish//죽다//Many perished in the war.
+permanent//영구적인//Is this a permanent position.
+permission//허가//You need parental permission.
+permit//허락하다//Smoking is not permitted here.
+perpendicular//수직의//The lines are perpendicular.
+perpetual//영구적인//They signed a perpetual agreement.
+perplex//당혹시키다//The puzzle perplexed everyone.
+persecute//박해하다//They were persecuted for their beliefs.
+persevere//인내하다//Persevere despite difficulties.
+persist//지속되다//The problem persists.
+persistent//끈질긴//She made persistent efforts.
+person//사람//He's a kind person.
+personal//개인적인//This is personal information.
+personality//성격//She has a cheerful personality.
+personnel//직원//All personnel must attend.
+perspective//관점//Consider different perspectives.
+persuade//설득하다//I persuaded him to stay.
+persuasion//설득//Her powers of persuasion are strong.
+pessimistic//비관적인//Don't be so pessimistic.
+pest//해충//Mosquitoes are annoying pests.
+pet//애완동물//Dogs make great pets.
+petition//청원//They signed a petition.
+petrol//휘발유//The car needs petrol.
+petroleum//석유//Petroleum prices fluctuate.
+phase//단계//This is the final phase.
+phenomenon//현상//Lightning is a natural phenomenon.
+philosopher//철학자//Socrates was a Greek philosopher.
+philosophy//철학//She studied philosophy at university.
+phone//전화//Please answer the phone.
+photograph//사진//Take a photograph of the view.
+phrase//구//The phrase means something different.
+physical//신체의//Physical exercise is important.
+physician//의사//Consult your physician regularly.
+physics//물리학//Physics explains natural laws.
+piano//피아노//She plays the piano beautifully.
+pick//고르다//Pick your favorite color.
+picture//그림//The picture shows a sunset.
+piece//조각//Would you like a piece of cake.
+pierce//뚫다//Pierce the balloon with a pin.
+pig//돼지//Pigs are intelligent animals.
+pile//더미//A pile of books sat there.
+pilgrim//순례자//Pilgrims traveled to holy sites.
+pill//알약//Take two pills daily.
+pillar//기둥//Stone pillars supported the roof.
+pillow//베개//This pillow is very comfortable.
+pilot//조종사//The pilot landed the plane safely.
+pin//핀//Use a pin to attach it.
+pinch//꼬집다//Don't pinch your little brother.
+pioneer//개척자//He was a pioneer in medicine.
+pipe//파이프//Water flows through pipes.
+pirate//해적//Pirates sailed the Caribbean seas.
+pistol//권총//The detective carried a pistol.
+pit//구덩이//They dug a deep pit.
+pitch//던지다//The pitcher threw a fastball.
+pity//동정//I feel pity for him.
+place//장소//This is a beautiful place.
+plague//전염병//The plague killed millions.
+plain//평야, 명백한//The meaning is plain.
+plan//계획//What's your plan for tomorrow.
+plane//비행기//The plane took off on time.
+planet//행성//Earth is the third planet.
+plant//식물//Water the plants regularly.
+plantation//농장//Cotton plantations used slave labor.
+plaster//회반죽//The wall needs new plaster.
+plastic//플라스틱//Plastic pollution harms oceans.
+plate//접시//Put the food on a plate.
+platform//플랫폼//Wait on the train platform.
+play//놀다//Children love to play.
+player//선수//He's a talented soccer player.
+playground//놀이터//Kids enjoy the playground.
+plea//탄원//The defendant entered a plea.
+plead//탄원하다//He pleaded for mercy.
+pleasant//즐거운//Have a pleasant day.
+please//제발//Please help me.
+pleasure//기쁨//It's my pleasure to meet you.
+pledge//서약//They pledged their support.
+plentiful//풍부한//Food is plentiful here.
+plenty//많음//There's plenty of time.
+plot//음모, 줄거리//The movie has an interesting plot.
+plow//쟁기//Farmers plow their fields.
+plug//플러그//Plug in the charger.
+plunge//급락하다//Stock prices plunged suddenly.
+plural//복수의//Cats is the plural of cat.
+plus//더하기//Two plus two equals four.
+pocket//주머니//He put money in his pocket.
+poem//시//She wrote a beautiful poem.
+poet//시인//Shakespeare was a famous poet.
+poetry//시//I enjoy reading poetry.
+point//점//Make your point clearly.
+poison//독//Some mushrooms contain poison.
+poisonous//유독한//This snake is poisonous.
+pole//기둥//The flag hung from a pole.
+police//경찰//Call the police immediately.
+policy//정책//The government changed its policy.
+polish//광내다//Polish your shoes before the interview.
+polite//예의바른//Be polite to elders.
+political//정치의//She has strong political opinions.
+politician//정치인//Politicians debate issues publicly.
+politics//정치//He's interested in politics.
+poll//여론조사//Recent polls show support increasing.
+pollute//오염시키다//Factories pollute the air.
+pollution//오염//Air pollution causes health problems.
+pond//연못//Ducks swim in the pond.
+ponder//숙고하다//She pondered the question carefully.
+pool//수영장//They swam in the pool.
+poor//가난한//Many people are poor.
+pop//터지다//The balloon will pop.
+popular//인기있는//This song is very popular.
+popularity//인기//Her popularity increased rapidly.
+population//인구//The city's population is growing.
+porch//현관//Sit on the front porch.
+pore//구멍//Skin has tiny pores.
+port//항구//Ships dock at the port.
+portable//휴대용의//This radio is portable.
+portion//부분//Eat a small portion.
+portrait//초상화//The artist painted her portrait.
+portray//묘사하다//The film portrays his life.
+pose//자세를 취하다//The model posed for photos.
+position//위치//What's your position on this.
+positive//긍정적인//Maintain a positive attitude.
+possess//소유하다//She possesses great talent.
+possession//소유//Material possessions don't matter.
+possibility//가능성//There's a possibility of rain.
+possible//가능한//Anything is possible.
+possibly//아마도//I'll possibly arrive late.
+post//우편, 게시하다//I'll post the letter today.
+postage//우편요금//How much is the postage.
+postpone//연기하다//Let's postpone the meeting.
+pot//냄비//Boil water in a pot.
+potato//감자//Potatoes are nutritious.
+potential//잠재력//She has great potential.
+pottery//도자기//Ancient pottery was discovered.
+pound//파운드//The package weighs three pounds.
+pour//붓다//Pour milk into the glass.
+poverty//빈곤//Poverty affects millions globally.
+powder//가루//Mix the powder with water.
+power//힘//Knowledge is power.
+powerful//강력한//He delivered a powerful speech.
+practical//실용적인//Give practical advice.
+practice//연습//Practice makes perfect.
+practitioner//개업의//She's a medical practitioner.
+praise//칭찬하다//Teachers praise good students.
+pray//기도하다//They pray every morning.
+prayer//기도//Say a prayer before meals.
+preach//설교하다//The minister preached about forgiveness.
+precaution//예방조치//Take precautions against illness.
+precede//선행하다//Thunder precedes lightning.
+precedent//선례//This sets a dangerous precedent.
+precious//귀중한//Time is precious.
+precise//정확한//Give me precise directions.
+precisely//정확하게//Arrive precisely at noon.
+precision//정밀//Surgery requires precision.
+predict//예측하다//Nobody can predict the future.
+prediction//예측//Weather predictions aren't always accurate.
+predominant//지배적인//English is the predominant language.
+preface//서문//Read the book's preface first.
+prefer//선호하다//I prefer tea to coffee.
+preference//선호//Everyone has different preferences.
+pregnant//임신한//She's three months pregnant.
+prejudice//편견//Overcome racial prejudice.
+preliminary//예비의//These are preliminary results.
+premature//조숙한//The baby was born premature.
+premier//수상//The premier addressed parliament.
+premises//건물//Smoking is banned on these premises.
+premium//보험료//Insurance premiums increased.
+preparation//준비//Preparation is essential for success.
+prepare//준비하다//Prepare dinner for guests.
+prescribe//처방하다//Doctors prescribe medicine.
+prescription//처방전//Take this prescription to the pharmacy.
+presence//존재//Your presence is requested.
+present//현재의, 선물//Live in the present moment.
+presentation//발표//Give a presentation tomorrow.
+preserve//보존하다//Preserve natural habitats.
+preside//주재하다//The judge presides over trials.
+president//대통령//The president made a speech.
+press//누르다//Press the button firmly.
+pressure//압력//High blood pressure is dangerous.
+prestige//명성//The university has great prestige.
+prestigious//명망있는//Harvard is a prestigious institution.
+presumably//아마//Presumably, she'll attend.
+presume//추정하다//I presume you're correct.
+pretend//~인 척하다//Don't pretend to understand.
+pretty//예쁜//She's a pretty girl.
+prevail//우세하다//Justice will prevail.
+prevalent//널리 퍼진//Obesity is increasingly prevalent.
+prevent//막다//Exercise prevents disease.
+prevention//예방//Prevention is better than cure.
+previous//이전의//Do you have previous experience.
+previously//이전에//We met previously at a conference.
+prey//먹이//Lions hunt their prey.
+price//가격//What's the price of this item.
+pride//자부심//Take pride in your work.
+priest//성직자//The priest conducted the ceremony.
+primary//주요한//Education is our primary concern.
+prime//주요한//This is prime real estate.
+primitive//원시적인//Primitive tools were made of stone.
+prince//왕자//The prince will become king.
+princess//공주//The princess wore a crown.
+principal//교장, 주요한//The principal addressed students.
+principle//원리//Understand the basic principles.
+print//인쇄하다//Print ten copies please.
+printer//프린터//The printer needs new ink.
+prior//이전의//Do you have prior knowledge.
+priority//우선순위//Health is my top priority.
+prison//감옥//He spent years in prison.
+prisoner//죄수//The prisoner escaped yesterday.
+privacy//사생활//Everyone deserves privacy.
+private//사적인//This is private property.
+privilege//특권//Education is a privilege.
+prize//상//She won first prize.
+probability//확률//The probability of rain is high.
+probable//있음직한//Rain is probable tomorrow.
+probably//아마//She'll probably arrive late.
+probe//조사하다//Scientists probe deep questions.
+problem//문제//This is a serious problem.
+procedure//절차//Follow the correct procedure.
+proceed//진행하다//Please proceed with caution.
+process//과정//The process takes several hours.
+procession//행렬//The funeral procession moved slowly.
+proclaim//선언하다//The king proclaimed a holiday.
+produce//생산하다//Factories produce goods.
+product//제품//This product is very popular.
+production//생산//Production increased dramatically.
+productive//생산적인//Make meetings more productive.
+profession//직업//Teaching is a noble profession.
+professional//전문적인//He has a professional attitude.
+professor//교수//The professor teaches biology.
+profile//프로필//Create your online profile.
+profit//이익//Companies seek profit.
+profitable//수익성 있는//The business is very profitable.
+profound//심오한//He made a profound statement.
+program//프로그램//What's your favorite TV program.
+progress//진보//Technology shows rapid progress.
+progressive//진보적인//She has progressive views.
+prohibit//금지하다//Smoking is strictly prohibited.
+prohibition//금지//The prohibition failed completely.
+project//프로젝트//Complete the science project.
+prolong//연장하다//Don't prolong the meeting unnecessarily.
+prominent//저명한//She's a prominent scientist.
+promise//약속하다//I promise to help you.
+promising//유망한//He's a promising young athlete.
+promote//승진시키다//They promoted her to manager.
+promotion//승진//He received a promotion yesterday.
+prompt//신속한//We need a prompt response.
+promptly//즉시//Arrive promptly at eight.
+pronounce//발음하다//How do you pronounce this word.
+pronunciation//발음//Practice correct pronunciation.
+proof//증거//Where's the proof of purchase.
+propaganda//선전//War propaganda manipulates opinion.
+propel//추진하다//Engines propel the aircraft.
+proper//적절한//Use proper grammar.
+properly//적절하게//Do it properly this time.
+property//재산//She inherited valuable property.
+proportion//비율//Mix in equal proportions.
+proposal//제안//The proposal was accepted.
+propose//제안하다//He proposed marriage yesterday.
+proposition//제안//Consider this proposition carefully.
+prose//산문//The book is written in prose.
+prosecute//기소하다//They will prosecute the criminal.
+prospect//전망//Job prospects are improving.
+prosper//번영하다//The business will prosper.
+prosperity//번영//Peace brings prosperity.
+prosperous//번영하는//It's a prosperous nation.
+protect//보호하다//Parents protect their children.
+protection//보호//Wildlife needs protection.
+protein//단백질//Meat contains protein.
+protest//항의하다//Workers protested low wages.
+protocol//의전//Follow diplomatic protocol.
+proud//자랑스러운//Parents are proud of children.
+prove//증명하다//Can you prove your theory.
+proverb//속담//Every culture has proverbs.
+provide//제공하다//Schools provide education.
+provided//~라는 조건으로//You can go, provided you finish.
+province//지방//Quebec is a Canadian province.
+provision//규정//Read the contract provisions.
+provoke//자극하다//Don't provoke angry reactions.
+prudent//신중한//Make prudent financial decisions.
+psychology//심리학//She majored in psychology.
+public//대중의//Public opinion matters.
+publication//출판//The publication date is next month.
+publicity//홍보//The event received much publicity.
+publicly//공개적으로//He apologized publicly.
+publish//출판하다//The magazine publishes monthly.
+pull//끌다//Pull the door open.
+pulse//맥박//The nurse checked his pulse.
+pump//펌프//Water pumps failed during drought.
+punch//주먹으로 치다//He punched the wall angrily.
+punctual//시간을 엄수하는//Always be punctual for meetings.
+punish//벌하다//Parents punish misbehaving children.
+punishment//처벌//The punishment was severe.
+pupil//학생//The teacher has thirty pupils.
+purchase//구매하다//I purchased a new laptop.
+pure//순수한//The water is pure.
+purely//순전히//It was purely coincidental.
+purify//정화하다//Filters purify drinking water.
+purity//순수//The gold's purity is high.
+purple//보라색//Purple is my favorite color.
+purpose//목적//What's the purpose of life.
+purposely//고의로//He purposely ignored me.
+pursue//추구하다//Pursue your dreams passionately.
+pursuit//추구//The pursuit of happiness.
+push//밀다//Push the door gently.
+put//놓다//Put the book on the table.
+puzzle//수수께끼//This puzzle is difficult.
+qualify//자격을 얻다//Do you qualify for this position.
+quality//질//This product has excellent quality.
+quantity//양//Measure the correct quantity.
+quarrel//다투다//Don't quarrel over small things.
+quarter//4분의 1//A quarter of students failed.
+queen//여왕//The queen ruled for decades.
+question//질문//May I ask a question.
+questionnaire//설문지//Complete this questionnaire please.
+queue//줄//Stand in the queue patiently.
+quick//빠른//Give me a quick answer.
+quickly//빨리//Walk quickly or we'll be late.
+quiet//조용한//Please be quiet during exams.
+quietly//조용히//He left quietly without notice.
+quit//그만두다//Never quit trying.
+quite//꽤//The movie was quite entertaining.
+quota//할당량//They exceeded their sales quota.
+quotation//인용//The essay includes several quotations.
+quote//인용하다//He quoted Shakespeare frequently.
+race//경주, 인종//Discrimination based on race is wrong.
+racial//인종의//Fight against racial injustice.
+rack//선반//Hang coats on the rack.
+radar//레이더//Radar detected approaching aircraft.
+radiate//방사하다//The sun radiates heat.
+radiation//방사선//Nuclear radiation is dangerous.
+radical//급진적인//He proposed radical reforms.
+radio//라디오//Listen to the radio news.
+radius//반지름//Calculate the circle's radius.
+rage//분노//He flew into a rage.
+raid//급습//Police raided the building.
+rail//철도//Travel by rail is comfortable.
+railroad//철도//The railroad connects cities.
+railway//철도//The railway system is efficient.
+rain//비//Heavy rain caused flooding.
+rainbow//무지개//A beautiful rainbow appeared.
+raise//올리다//Raise your hand to speak.
+rally//집회//They attended a political rally.
+random//무작위의//Choose a random number.
+range//범위//The price range varies widely.
+rank//계급//He holds the rank of colonel.
+rapid//빠른//Technological change is rapid.
+rapidly//빠르게//The population grew rapidly.
+rare//드문//This stamp is extremely rare.
+rarely//드물게//She rarely complains.
+rate//비율//The unemployment rate increased.
+rather//오히려//I'd rather stay home tonight.
+ratio//비율//The ratio of men to women.
+rational//이성적인//Make rational decisions.
+raw//날것의//Don't eat raw meat.
+ray//광선//Rays of sunlight streamed in.
+reach//도달하다//Did you reach your destination.
+react//반응하다//How did she react to news.
+reaction//반응//His reaction was surprising.
+read//읽다//I read books every day.
+readily//쉽게//Information is readily available.
+reading//독서//Reading improves vocabulary.
+ready//준비된//Are you ready to leave.
+real//진짜의//Is this real gold.
+realistic//현실적인//Be realistic about expectations.
+reality//현실//Face reality courageously.
+realize//깨닫다//I realize my mistake now.
+really//정말로//I really appreciate your help.
+realm//영역//This enters the realm of fantasy.
+reap//수확하다//You reap what you sow.
+rear//뒤//Exit through the rear door.
+reason//이유//What's the reason for delay.
+reasonable//합리적인//That's a reasonable price.
+reasoning//추론//Logical reasoning is important.
+reassure//안심시키다//Parents reassure frightened children.
+rebel//반역자//Rebels fought the government.
+rebellion//반란//The rebellion was crushed.
+recall//회상하다//I can't recall his name.
+receipt//영수증//Keep your receipt for returns.
+receive//받다//Did you receive my message.
+recent//최근의//Recent studies show improvement.
+recently//최근에//I visited Paris recently.
+reception//환영//The reception was friendly.
+recession//경기후퇴//The economy entered recession.
+recipe//조리법//Follow the recipe carefully.
+recipient//수령인//She was the award recipient.
+reciprocal//상호의//Trust should be reciprocal.
+recite//암송하다//Students recite poems.
+reckless//무모한//Reckless driving causes accidents.
+reckon//생각하다//I reckon we'll finish soon.
+recognition//인정//She received recognition for achievements.
+recognize//인식하다//Do you recognize this person.
+recollect//회상하다//Can you recollect what happened.
+recommend//추천하다//I recommend this restaurant highly.
+recommendation//추천//She wrote a recommendation letter.
+reconcile//화해시키다//They reconciled after arguing.
+record//기록//Keep accurate records.
+recover//회복하다//Patients recover slowly.
+recovery//회복//Her recovery was complete.
+recreation//오락//Sports are popular recreation.
+recruit//모집하다//Companies recruit graduates.
+rectangle//직사각형//A door is rectangular.
+rectify//바로잡다//We must rectify this error.
+recur//재발하다//The problem keeps recurring.
+recycle//재활용하다//Recycle plastic bottles.
+red//빨간//Blood is red.
+reduce//줄이다//Reduce pollution levels.
+reduction//감소//Price reductions attract customers.
+redundant//중복된//That information is redundant.
+refer//언급하다//He referred to recent events.
+reference//참조//Check your reference materials.
+referendum//국민투표//The referendum passed narrowly.
+refine//정제하다//Crude oil must be refined.
+reflect//반사하다//Mirrors reflect light.
+reflection//반사//She saw her reflection.
+reform//개혁//Educational reform is necessary.
+refresh//새롭게 하다//Cold water refreshes you.
+refrigerator//냉장고//Store milk in the refrigerator.
+refuge//피난처//They sought refuge from persecution.
+refugee//난민//Refugees fled the war.
+refund//환불//Request a full refund.
+refusal//거절//His refusal surprised everyone.
+refuse//거절하다//She refused the offer.
+refute//반박하다//Evidence refutes that theory.
+regard//간주하다//I regard him highly.
+regarding//~에 관하여//Regarding your question.
+regardless//관계없이//Continue regardless of obstacles.
+regime//정권//The dictatorial regime fell.
+region//지역//This region has fertile soil.
+regional//지역의//Regional differences exist.
+register//등록하다//Register for classes online.
+registration//등록//Complete your registration form.
+regret//후회하다//I regret my decision.
+regrettable//유감스러운//This situation is regrettable.
+regular//규칙적인//Exercise regularly for health.
+regularly//규칙적으로//Visit the dentist regularly.
+regulate//규제하다//Laws regulate behavior.
+regulation//규정//Follow safety regulations.
+rehearsal//리허설//The play needs more rehearsal.
+rehearse//리허설하다//Actors rehearse their lines.
+reign//통치//Queen Victoria's reign lasted decades.
+reinforce//강화하다//Steel bars reinforce concrete.
+reject//거절하다//They rejected my application.
+rejection//거절//Fear rejection less.
+rejoice//기뻐하다//They rejoiced at the news.
+relate//관련시키다//How does this relate to that.
+relation//관계//International relations are complex.
+relationship//관계//Maintain healthy relationships.
+relative//친척//All my relatives attended.
+relatively//비교적//The test was relatively easy.
+relax//휴식하다//Relax after work.
+relaxation//이완//Meditation promotes relaxation.
+relay//전달하다//Please relay this message.
+release//방출하다//Release the prisoner immediately.
+relevant//관련있는//That's not relevant information.
+reliable//믿을 수 있는//He's a reliable employee.
+reliance//의존//Don't place reliance on luck.
+relief//안도//She sighed with relief.
+relieve//완화하다//Medicine relieves pain.
+religion//종교//Freedom of religion is important.
+religious//종교적인//Religious beliefs vary.
+reluctant//꺼리는//He was reluctant to help.
+rely//의지하다//Don't rely on others completely.
+remain//남다//Please remain seated.
+remainder//나머지//Eat the remainder tomorrow.
+remark//말하다//He remarked on the weather.
+remarkable//주목할 만한//She made remarkable progress.
+remedy//치료법//There's no quick remedy.
+remember//기억하다//Do you remember me.
+remind//상기시키다//Remind me to call.
+remote//멀리 떨어진//The village is remote.
+removal//제거//Snow removal is necessary.
+remove//제거하다//Remove your shoes inside.
+renaissance//르네상스//The Renaissance transformed Europe.
+render//만들다//The accident rendered him unable.
+renew//갱신하다//Renew your passport before expiring.
+renovate//개조하다//They renovated the old building.
+renowned//유명한//He's a renowned scientist.
+rent//임대료//How much is the monthly rent.
+repair//수리하다//Can you repair my computer.
+repay//갚다//I'll repay the loan promptly.
+repeal//폐지하다//Congress repealed the law.
+repeat//반복하다//Please repeat that sentence.
+repeatedly//반복해서//I've told you repeatedly.
+repel//격퇴하다//The army repelled the attack.
+repent//뉘우치다//The criminal repented his crimes.
+repetition//반복//Repetition aids memory.
+replace//대체하다//Replace broken parts immediately.
+replacement//교체//Find a replacement worker.
+reply//답장하다//Please reply to my email.
+report//보고하다//Report all accidents immediately.
+reporter//기자//Reporters interviewed witnesses.
+represent//대표하다//This symbol represents peace.
+representation//표현//Proportional representation is fair.
+representative//대표//Elect your representatives carefully.
+repress//억압하다//Dictators repress freedom.
+reproduce//재생산하다//Animals reproduce offspring.
+reproduction//재생산//Human reproduction is complex.
+republic//공화국//France is a republic.
+republican//공화국의//He has republican views.
+reputation//평판//Protect your reputation.
+request//요청하다//I request your assistance.
+require//요구하다//Success requires effort.
+requirement//필요조건//Meet all job requirements.
+rescue//구조하다//Firefighters rescue people.
+research//연구//Scientific research advances knowledge.
+researcher//연구원//Researchers conducted experiments.
+resemblance//유사//There's a strong resemblance.
+resemble//닮다//She resembles her mother.
+resent//분개하다//He resents unfair treatment.
+reservation//예약//Make a restaurant reservation.
+reserve//예약하다//Reserve a table tonight.
+reservoir//저수지//The reservoir supplies water.
+reside//거주하다//They reside in London.
+residence//거주//What's your permanent residence.
+resident//거주자//He's a permanent resident.
+residential//주거의//This is a residential area.
+residue//잔류물//Chemical residues remain.
+resign//사임하다//The minister resigned yesterday.
+resignation//사임//He submitted his resignation.
+resist//저항하다//Resist peer pressure.
+resistance//저항//They offered no resistance.
+resistant//저항하는//Bacteria became antibiotic resistant.
+resolute//단호한//She remained resolute.
+resolution//결의//New Year's resolutions fail.
+resolve//결심하다//Resolve conflicts peacefully.
+resort//리조트//Beach resorts are expensive.
+resource//자원//Natural resources are finite.
+respect//존경//Treat everyone with respect.
+respectable//존경할 만한//He's a respectable citizen.
+respectful//공손한//Be respectful to elders.
+respective//각각의//They returned to respective homes.
+respectively//각각//Tom and Sue scored 90 and 85 respectively.
+respond//응답하다//Please respond quickly.
+response//응답//What was her response.
+responsibility//책임//Accept responsibility for mistakes.
+responsible//책임있는//Who's responsible for this.
+rest//휴식//Get some rest tonight.
+restaurant//식당//This restaurant serves Italian food.
+restless//안절부절 못하는//The child was restless.
+restoration//복원//The building needs restoration.
+restore//복원하다//Restore the old painting.
+restrain//억제하다//Restrain your anger.
+restraint//억제//Show restraint when eating.
+restrict//제한하다//Speed limits restrict driving.
+restriction//제한//Travel restrictions apply.
+result//결과//What was the final result.
+resume//이력서//Submit your resume online.
+retail//소매//Retail prices are higher.
+retain//유지하다//Retain important documents.
+retaliate//보복하다//Don't retaliate violently.
+retire//은퇴하다//He will retire next year.
+retirement//은퇴//Plan for retirement early.
+retreat//후퇴하다//The army retreated quickly.
+retrieve//되찾다//Retrieve the lost data.
+return//돌아오다//When will you return home.
+reveal//드러내다//The investigation revealed truth.
+revelation//폭로//The revelation shocked everyone.
+revenge//복수//Revenge solves nothing.
+revenue//수익//Government revenue increased.
+reverse//뒤집다//Reverse the car carefully.
+review//검토하다//Review your notes before exams.
+revise//수정하다//Revise the document thoroughly.
+revision//수정//The essay needs revision.
+revive//소생시키다//Doctors revived the patient.
+revolt//반란//The people revolted against tyranny.
+revolution//혁명//The French Revolution changed history.
+revolutionary//혁명적인//This technology is revolutionary.
+revolve//회전하다//Earth revolves around the sun.
+reward//보상//Hard work brings rewards.
+rhetoric//수사학//Political rhetoric influences voters.
+rhyme//운//This poem has a rhyme scheme.
+rhythm//리듬//Music has rhythm and melody.
+ribbon//리본//Tie a ribbon around it.
+rice//쌀//Rice is a staple food.
+rich//부유한//She comes from a rich family.
+rid//제거하다//Get rid of bad habits.
+riddle//수수께끼//Can you solve this riddle.
+ride//타다//I ride my bike daily.
+ridicule//조롱하다//Don't ridicule others' mistakes.
+ridiculous//우스꽝스러운//That's a ridiculous idea.
+rifle//소총//Soldiers carried rifles.
+right//옳은//You made the right decision.
+righteous//정의로운//Fight for righteous causes.
+rigid//경직된//Rules are too rigid.
+rigorous//엄격한//The training is rigorous.
+ring//반지//She wore a diamond ring.
+riot//폭동//The riot lasted hours.
+rip//찢다//Don't rip the paper.
+ripe//익은//The fruit is ripe.
+ripen//익다//Bananas ripen quickly.
+rise//오르다//The sun rises in the east.
+risk//위험//Investment involves risk.
+risky//위험한//That's a risky decision.
+rival//경쟁자//The two companies are rivals.
+rivalry//경쟁//Athletic rivalry is intense.
+river//강//The river flowsabandon//버리다, 포기하다//They had to abandon their plan due to bad weather.
+ability//능력//She has the ability to solve complex problems.
+abolish//폐지하다//The government decided to abolish the old law.
+absent//결석한, 없는//He was absent from school yesterday.
+absolute//절대적인//There is no absolute truth in this matter.
+absorb//흡수하다//Plants absorb water through their roots.
+abstract//추상적인//Abstract art can be difficult to understand.
+abundant//풍부한//The region has abundant natural resources.
+abuse//남용하다, 학대하다//Drug abuse is a serious social problem.
+academic//학문의, 학업의//She achieved excellent academic results.
+accelerate//가속하다//The car began to accelerate on the highway.
+accept//받아들이다//I accept your apology.
+access//접근, 이용//Everyone should have access to education.
+accident//사고//There was a car accident on the bridge.
+accomplish//성취하다//She accomplished her goal of graduating early.
+according//~에 따르면//According to the report, sales increased.
+account//계좌, 설명//He opened a bank account yesterday.
+accurate//정확한//We need accurate information to proceed.
+accuse//고발하다, 비난하다//He was accused of stealing money.
+achieve//성취하다//Hard work helps you achieve success.
+acknowledge//인정하다//He acknowledged his mistake publicly.
+acquire//획득하다//It takes time to acquire new skills.
+adapt//적응하다//Animals must adapt to their environment.
+adequate//적절한, 충분한//We need adequate funding for this project.
+adjust//조정하다//Please adjust the volume of the music.
+administer//관리하다, 집행하다//The nurse will administer the medication.
+admire//존경하다//I admire her courage and determination.
+admit//인정하다, 입학시키다//He admitted that he was wrong.
+adopt//채택하다, 입양하다//They decided to adopt a child.
+advance//진보, 전진하다//Technology continues to advance rapidly.
+advantage//이점, 유리//Speaking two languages is a great advantage.
+adventure//모험//They went on an adventure in the mountains.
+adverse//불리한, 부정적인//Adverse weather conditions delayed the flight.
+advertise//광고하다//Companies advertise their products on TV.
+advice//조언//She gave me some useful advice.
+advocate//옹호하다, 지지자//He advocates for environmental protection.
+affect//영향을 미치다//Climate change affects all living things.
+afford//여유가 있다//I cannot afford to buy a new car.
+agency//대행사, 기관//The advertising agency created a new campaign.
+aggression//공격, 침략//The country condemned the act of aggression.
+agriculture//농업//Agriculture is important for food production.
+aircraft//항공기//The aircraft landed safely at the airport.
+alarm//경보, 놀라게 하다//The fire alarm went off suddenly.
+alert//경보, 경계하는//Stay alert while driving at night.
+alien//외국의, 외계인//Scientists search for alien life forms.
+allocate//할당하다//We need to allocate resources efficiently.
+allow//허락하다//Parents should allow children some freedom.
+alter//변경하다//Climate change will alter weather patterns.
+alternative//대안//We need to find an alternative solution.
+altitude//고도//The plane flies at a high altitude.
+amaze//놀라게 하다//The magician's tricks amazed the audience.
+ambiguous//애매한, 모호한//His answer was ambiguous and unclear.
+ambition//야망, 포부//She has great ambition to become a doctor.
+amount//양, 총액//A large amount of money was donated.
+ample//충분한//There is ample evidence to support this theory.
+amuse//즐겁게 하다//The comedian amused the crowd with jokes.
+ancient//고대의//Ancient civilizations built impressive monuments.
+anger//분노//He tried to control his anger.
+angle//각도, 관점//Look at the problem from a different angle.
+announce//발표하다//The company will announce new products tomorrow.
+annoy//짜증나게 하다//Loud noises annoy me when I study.
+annual//연례의//They hold an annual meeting every year.
+anticipate//예상하다//We anticipate problems with the new system.
+anxious//불안한//She felt anxious before the exam.
+apparent//명백한//It was apparent that he was lying.
+appeal//호소하다, 매력//The charity appealed for donations.
+appear//나타나다//A rainbow appeared after the rain.
+appetite//식욕//Exercise increases your appetite.
+applaud//박수치다//The audience applauded the performance.
+application//지원, 응용//He submitted his job application online.
+appoint//임명하다//The president appointed a new minister.
+appreciate//감사하다, 인식하다//I appreciate your help with this project.
+approach//접근하다, 방법//We need a new approach to this problem.
+appropriate//적절한//Wear appropriate clothing for the occasion.
+approve//승인하다//The committee approved the proposal.
+approximate//대략의//The approximate cost is five hundred dollars.
+arbitrary//임의의, 독단적인//The decision seemed arbitrary and unfair.
+architecture//건축, 건축학//Modern architecture emphasizes simplicity.
+argue//논쟁하다//They argued about politics for hours.
+arise//발생하다//Problems may arise during the project.
+arouse//불러일으키다//The speech aroused public interest.
+arrange//배열하다, 준비하다//She arranged the flowers in a vase.
+arrest//체포하다//Police arrested the suspect yesterday.
+artificial//인공의//Artificial intelligence is developing rapidly.
+aspect//측면, 양상//We must consider every aspect of the problem.
+aspire//열망하다//Many students aspire to attend university.
+assault//폭행, 공격하다//He was charged with assault.
+assemble//모으다, 조립하다//Workers assemble cars in the factory.
+assert//주장하다//He asserted his innocence in court.
+assess//평가하다//Teachers assess students' performance regularly.
+assign//할당하다, 배정하다//The teacher assigned homework for tomorrow.
+assist//돕다//Can you assist me with this task.
+associate//연관시키다, 동료//People associate red with danger.
+assume//가정하다//We cannot assume that he is guilty.
+assure//확신시키다//I assure you that everything will be fine.
+astonish//깜짝 놀라게 하다//The news astonished everyone in the room.
+atmosphere//대기, 분위기//The atmosphere at the party was cheerful.
+attach//붙이다//Please attach the document to the email.
+attack//공격하다//The enemy attacked at dawn.
+attain//달성하다//She worked hard to attain her goals.
+attempt//시도하다//He attempted to climb the mountain.
+attend//참석하다//Many people attended the conference.
+attitude//태도//A positive attitude helps you succeed.
+attract//끌다, 유인하다//Flowers attract bees and butterflies.
+attribute//~의 탓으로 하다, 속성//She attributes her success to hard work.
+audience//청중, 관객//The audience gave a standing ovation.
+authority//권위, 당국//The government has authority over the region.
+automatic//자동의//The door has an automatic opening system.
+available//이용가능한//Tickets are still available for the concert.
+average//평균의//The average temperature in July is high.
+avoid//피하다//Try to avoid making the same mistake.
+aware//알고 있는//Are you aware of the risks involved.
+background//배경//He comes from a poor background.
+balance//균형, 잔액//Try to maintain a work-life balance.
+ban//금지하다//The government banned smoking in public places.
+barrier//장벽//Language can be a barrier to communication.
+behalf//대신하여//I am speaking on behalf of the committee.
+behavior//행동//His behavior at the party was inappropriate.
+belief//믿음, 신념//Religious beliefs vary across cultures.
+benefit//이익, 혜택//Exercise has many health benefits.
+bias//편견//Journalists should avoid bias in reporting.
+blame//비난하다//Don't blame others for your mistakes.
+blend//혼합하다//Blend the ingredients until smooth.
+boost//증진시키다//Coffee can boost your energy levels.
+border//국경, 경계//They crossed the border into Canada.
+bother//괴롭히다//Don't bother me while I am working.
+boundary//경계//We must respect the boundaries of others.
+brilliant//훌륭한, 빛나는//She came up with a brilliant idea.
+broad//넓은//He has a broad knowledge of history.
+budget//예산//The project exceeded its budget.
+burden//짐, 부담//Heavy taxes are a burden on families.
+bureaucracy//관료제//Government bureaucracy can be inefficient.
+calculate//계산하다//Please calculate the total cost.
+campaign//캠페인, 운동//They launched a campaign against smoking.
+cancel//취소하다//We had to cancel the meeting.
+candidate//후보자//Three candidates applied for the position.
+capability//능력, 역량//This device has impressive capabilities.
+capacity//수용력, 능력//The stadium has a capacity of fifty thousand.
+capital//수도, 자본//Seoul is the capital of South Korea.
+capture//포착하다, 체포하다//The photographer captured the sunset beautifully.
+career//경력, 직업//She has a successful career in medicine.
+cautious//조심하는//Be cautious when crossing the street.
+cease//중단하다//The fighting ceased at midnight.
+celebrate//축하하다//We will celebrate her birthday tomorrow.
+challenge//도전, 이의를 제기하다//Climate change is a global challenge.
+chamber//방, 회의실//The king entered the royal chamber.
+characteristic//특징적인, 특성//Honesty is a characteristic of good leaders.
+charge//요금, 청구하다, 기소하다//They charge fifty dollars per hour.
+charity//자선//She donates money to charity regularly.
+chase//추적하다//The police chased the thief.
+chemical//화학의, 화학물질//Chemical reactions occur in the lab.
+chronic//만성의//He suffers from chronic back pain.
+circuit//회로, 순회//The electrical circuit was damaged.
+circulate//순환하다//Blood circulates through the body.
+circumstance//상황, 환경//Under these circumstances, we must act quickly.
+cite//인용하다//The author cited several sources.
+civil//시민의, 민간의//Civil rights are protected by law.
+claim//주장하다, 요구하다//He claims that he is innocent.
+clarify//명확히 하다//Could you clarify what you mean.
+classic//고전적인//This book is a classic of literature.
+classify//분류하다//Scientists classify animals into groups.
+climate//기후//The climate is changing rapidly.
+cling//달라붙다//The child clung to his mother.
+code//암호, 규칙//The message was written in code.
+cognitive//인지의//Cognitive development occurs in childhood.
+coherent//일관성 있는//She gave a coherent explanation.
+coincide//동시에 일어나다//The two events coincided perfectly.
+collapse//붕괴하다//The building collapsed during the earthquake.
+colleague//동료//My colleagues are very supportive.
+collective//집단의//They made a collective decision.
+colonial//식민지의//Many countries have a colonial past.
+column//기둥, 칼럼//The newspaper column was very popular.
+combat//전투, 싸우다//Soldiers prepare for combat.
+combine//결합하다//Combine flour and water to make dough.
+command//명령하다//The general commanded his troops.
+commence//시작하다//The ceremony will commence at noon.
+comment//논평, 의견//He refused to comment on the issue.
+commercial//상업의//The commercial area is very busy.
+commission//위원회, 수수료//She earns a commission on sales.
+commit//범하다, 전념하다//He committed a serious crime.
+commodity//상품//Oil is an important commodity.
+communicate//의사소통하다//Email helps us communicate quickly.
+community//공동체//The local community organized a festival.
+commute//통근하다//I commute to work by train.
+compact//소형의, 빽빽한//The apartment is small but compact.
+companion//동반자//Dogs are loyal companions.
+comparable//비교할 만한//The two products are comparable in quality.
+compare//비교하다//Compare the prices before buying.
+compel//강요하다//The evidence compelled him to confess.
+compensate//보상하다//The company will compensate for damages.
+compete//경쟁하다//Athletes compete for gold medals.
+competent//유능한//She is a competent manager.
+compile//편집하다//He compiled a list of references.
+complain//불평하다//Customers complained about poor service.
+complement//보완하다//The wine complements the meal perfectly.
+complex//복잡한//This is a complex mathematical problem.
+complicate//복잡하게 만들다//Don't complicate the situation further.
+component//구성요소//The engine has many components.
+compose//구성하다, 작곡하다//Water is composed of hydrogen and oxygen.
+comprehensive//포괄적인//The report provides comprehensive information.
+compress//압축하다//You can compress files to save space.
+comprise//구성되다//The committee comprises ten members.
+compromise//타협하다//Both sides must be willing to compromise.
+compulsory//의무적인//Education is compulsory until age sixteen.
+compute//계산하다//Computers can compute data rapidly.
+conceal//숨기다//She tried to conceal her disappointment.
+conceive//생각하다, 임신하다//It is hard to conceive such a plan.
+concentrate//집중하다//I cannot concentrate with this noise.
+concept//개념//The concept of freedom is universal.
+concern//관심사, 걱정//Environmental issues are a major concern.
+conclude//결론짓다//We can conclude that the experiment succeeded.
+concrete//구체적인, 콘크리트//Please give me a concrete example.
+condemn//비난하다//The international community condemned the attack.
+conduct//수행하다, 행동//Scientists conduct experiments in laboratories.
+confer//수여하다, 협의하다//The university will confer degrees tomorrow.
+confess//고백하다//He confessed to stealing the money.
+confine//제한하다//The prisoner was confined to his cell.
+confirm//확인하다//Please confirm your reservation by email.
+conflict//갈등, 충돌//There is conflict between the two groups.
+conform//따르다, 순응하다//Students must conform to school rules.
+confront//직면하다//We must confront this problem directly.
+confuse//혼란스럽게 하다//The instructions confused me completely.
+congress//의회//Congress passed a new law yesterday.
+connect//연결하다//Please connect the cable to the computer.
+conquer//정복하다//Alexander the Great conquered many lands.
+conscious//의식하는//Are you conscious of your mistakes.
+consecutive//연속적인//It rained for three consecutive days.
+consensus//합의//The committee reached a consensus.
+consent//동의//You need parental consent for this trip.
+consequence//결과//Every action has consequences.
+conserve//보존하다//We must conserve natural resources.
+consider//고려하다//Please consider my proposal carefully.
+consist//구성되다//The team consists of five members.
+consistent//일관된//His story was consistent throughout.
+consolidate//통합하다//The company consolidated its operations.
+conspicuous//눈에 띄는//He wore a conspicuous red hat.
+constant//끊임없는, 불변의//There was constant noise from traffic.
+constitute//구성하다//Women constitute half the population.
+constrain//제약하다//Budget limits constrain our options.
+construct//건설하다//They will construct a new bridge.
+consult//상담하다//Consult a doctor if symptoms persist.
+consume//소비하다//Americans consume large amounts of energy.
+contact//접촉, 연락하다//Please contact me by phone.
+contain//포함하다//This bottle contains one liter.
+contaminate//오염시키다//Factory waste contaminated the river.
+contemporary//현대의//Contemporary art can be controversial.
+contempt//경멸//He showed contempt for authority.
+contend//다투다, 주장하다//Two teams contend for the championship.
+content//내용, 만족하는//I am content with my life.
+contest//경쟁, 이의를 제기하다//She won the singing contest.
+context//맥락, 상황//You must understand the historical context.
+continent//대륙//Africa is a vast continent.
+continuous//계속되는//There was continuous rain all day.
+contract//계약//They signed a contract yesterday.
+contradict//모순되다//His actions contradict his words.
+contrary//반대의//Contrary to expectations, he succeeded.
+contrast//대조//There is a sharp contrast between them.
+contribute//기여하다//Everyone should contribute to the project.
+control//통제하다//The government controls prices strictly.
+controversial//논란의 여지가 있는//Abortion is a controversial issue.
+convene//소집하다//The committee will convene next Monday.
+convention//관습, 회의//Social conventions vary across cultures.
+conventional//전통적인//He rejected conventional methods.
+converge//모이다//The two rivers converge near the city.
+conversation//대화//We had a long conversation yesterday.
+convert//전환하다//They converted the garage into an office.
+convey//전달하다//Words cannot convey my gratitude.
+convince//확신시키다//She convinced me to change my mind.
+cooperate//협력하다//Countries must cooperate to solve problems.
+coordinate//조정하다//We need to coordinate our efforts.
+cope//대처하다//She learned to cope with stress.
+core//핵심, 중심//Trust is the core of friendship.
+corporate//기업의//Corporate profits increased this year.
+correspond//일치하다, 통신하다//His actions correspond with his beliefs.
+corrupt//부패한, 타락시키다//Corrupt officials accepted bribes.
+costly//비용이 많이 드는//The project was too costly.
+council//의회, 평의회//The city council meets weekly.
+counsel//조언, 변호사//She sought legal counsel.
+counter//반대하다, 계산대//He countered my argument effectively.
+countless//무수한//Countless stars fill the night sky.
+courage//용기//It takes courage to admit mistakes.
+course//과정, 진로//She enrolled in a biology course.
+court//법정, 궁정//The case will go to court.
+craft//기술, 만들다//She learned the craft of pottery.
+crash//충돌하다//The car crashed into a tree.
+create//창조하다//Artists create beautiful works.
+credible//믿을 만한//She is a credible witness.
+credit//신용, 공로//He deserves credit for his work.
+crew//승무원//The ship's crew worked efficiently.
+crisis//위기//The country faced an economic crisis.
+criteria//기준//What are the selection criteria.
+critic//비평가//The film received praise from critics.
+critical//비판적인, 중대한//This is a critical moment in history.
+criticize//비판하다//She criticized the government's policy.
+crop//농작물//Farmers harvested their crops early.
+crucial//결정적인//This is a crucial decision.
+crude//조잡한, 원유//His manners were crude and offensive.
+crush//부수다//The machine can crush rocks easily.
+cultivate//경작하다, 기르다//Farmers cultivate rice in the fields.
+cultural//문화적인//Cultural differences affect communication.
+cumulative//누적된//The cumulative effect was significant.
+curiosity//호기심//Curiosity drives scientific discovery.
+currency//통화//The euro is a common currency.
+current//현재의, 흐름//What is the current situation.
+curriculum//교육과정//The school updated its curriculum.
+custody//보호, 구금//The mother was awarded custody.
+custom//관습//Wedding customs vary by country.
+cycle//순환, 주기//The water cycle is continuous.
+damage//손해//The storm caused severe damage.
+debate//토론하다//Politicians debated the issue hotly.
+decade//10년//Technology advanced rapidly last decade.
+decay//부패하다//Old buildings decay over time.
+deceive//속이다//He tried to deceive me with lies.
+decent//괜찮은, 예의바른//She earns a decent salary.
+decide//결정하다//We must decide quickly.
+declaration//선언//The declaration of independence was signed.
+decline//감소하다, 거절하다//Sales declined sharply this year.
+decorate//장식하다//They decorated the room for the party.
+decrease//감소하다//Pollution levels decreased significantly.
+dedicate//헌신하다//She dedicated her life to teaching.
+deduce//추론하다//From the evidence, we can deduce the truth.
+deem//여기다, 간주하다//The plan was deemed too risky.
+defeat//패배시키다//Our team defeated the champions.
+defect//결함//The product had a manufacturing defect.
+defend//방어하다//Lawyers defend their clients in court.
+deficiency//결핍//Vitamin deficiency causes health problems.
+define//정의하다//How do you define success.
+definite//명확한//We need a definite answer.
+defy//거역하다//He defied his parents' wishes.
+degree//학위, 정도//She earned a master's degree.
+delay//지연시키다//Bad weather delayed the flight.
+deliberate//고의적인, 숙고하다//It was a deliberate act of sabotage.
+delicate//섬세한//Handle the glass carefully, it's delicate.
+delight//기쁨//The children squealed with delight.
+deliver//배달하다//The mailman delivers letters daily.
+demand//요구하다//Workers demanded higher wages.
+democracy//민주주의//Democracy requires active participation.
+demonstrate//입증하다, 시위하다//The experiment demonstrated the theory.
+denote//나타내다//Red often denotes danger.
+dense//밀집한//The forest was very dense.
+deny//부정하다//He denied all accusations.
+depart//출발하다//The train will depart at noon.
+depend//의존하다//Children depend on their parents.
+depict//묘사하다//The painting depicts a rural scene.
+deplete//고갈시키다//Pollution depletes the ozone layer.
+deploy//배치하다//Troops were deployed to the region.
+deposit//예금, 보증금//I made a deposit at the bank.
+depress//우울하게 하다//Rainy weather depresses some people.
+deprive//빼앗다//War deprived them of their homes.
+derive//유래하다, 끌어내다//The word derives from Latin.
+descend//내려가다//The plane began to descend.
+describe//묘사하다//Can you describe what happened.
+desert//사막, 버리다//They crossed the Sahara desert.
+deserve//~할 가치가 있다//She deserves a promotion.
+design//설계하다//He designed a beautiful building.
+designate//지정하다//This area is designated for parking.
+desire//욕망, 바라다//He has a strong desire to succeed.
+despair//절망//They felt despair after the disaster.
+desperate//필사적인//She made a desperate attempt to escape.
+despite//~에도 불구하고//Despite the rain, we went hiking.
+destination//목적지//Paris is a popular tourist destination.
+destroy//파괴하다//The fire destroyed the building.
+detail//세부사항//Please explain in detail.
+detect//발견하다//Scientists detected a new planet.
+deter//단념시키다//Harsh punishments deter crime.
+deteriorate//악화되다//His health deteriorated rapidly.
+determine//결정하다//Tests will determine the cause.
+develop//발전시키다//Technology continues to develop rapidly.
+device//장치//This device monitors heart rate.
+deviate//벗어나다//Don't deviate from the plan.
+devise//고안하다//We must devise a new strategy.
+devote//바치다//He devoted his life to science.
+diagnose//진단하다//Doctors diagnosed her with diabetes.
+dialogue//대화//The two leaders engaged in dialogue.
+dictate//지시하다, 받아쓰게 하다//Don't let others dictate your choices.
+diet//식단//A balanced diet is important.
+differ//다르다//Opinions differ on this matter.
+differentiate//구별하다//Can you differentiate between them.
+difficult//어려운//This is a difficult problem.
+diffuse//확산시키다//Light diffused through the curtains.
+dignity//존엄//Everyone deserves to be treated with dignity.
+dilemma//딜레마//She faced a moral dilemma.
+diligent//부지런한//He is a diligent student.
+dilute//희석하다//Dilute the juice with water.
+dimension//차원, 크기//The problem has many dimensions.
+diminish//줄어들다//His influence gradually diminished.
+dioxide//이산화물//Carbon dioxide causes global warming.
+diploma//졸업장//She received her high school diploma.
+direct//직접적인, 지시하다//Please give me direct instructions.
+disable//무능력하게 하다//The accident disabled him permanently.
+disadvantage//불리//Being short can be a disadvantage.
+disagree//동의하지 않다//I disagree with your opinion.
+disappoint//실망시키다//His performance disappointed fans.
+disaster//재난//The earthquake was a terrible disaster.
+discard//버리다//Please discard old newspapers.
+discern//식별하다//I could discern a figure in the fog.
+discharge//배출하다, 해고하다//Factories discharge waste into rivers.
+discipline//규율, 학문//Military discipline is very strict.
+disclose//공개하다//Companies must disclose financial information.
+discount//할인//The store offered a discount.
+discourage//낙담시키다//Don't let failure discourage you.
+discover//발견하다//Columbus discovered America in 1492.
+discreet//신중한//Please be discreet about this matter.
+discriminate//차별하다//It's illegal to discriminate based on race.
+discuss//논의하다//Let's discuss the problem.
+disease//질병//Cancer is a serious disease.
+disguise//변장//He wore a disguise to avoid recognition.
+disgust//혐오//The smell filled me with disgust.
+dismiss//해고하다, 무시하다//The company dismissed several employees.
+disorder//무질서, 장애//The room was in complete disorder.
+disperse//흩어지다//The crowd dispersed quickly.
+displace//대신하다//War displaced millions of people.
+display//전시하다//The museum displays ancient artifacts.
+dispose//처리하다//How should we dispose of this waste.
+dispute//논쟁//There is a dispute over the property.
+disrupt//방해하다//The protest disrupted traffic.
+dissolve//용해시키다//Sugar dissolves in water.
+distance//거리//The distance between cities is great.
+distinct//뚜렷한//There is a distinct difference.
+distinguish//구별하다//Can you distinguish truth from lies.
+distort//왜곡하다//The media distorted the facts.
+distract//산만하게 하다//Don't distract me while I'm working.
+distress//고통//The news caused her great distress.
+distribute//분배하다//Volunteers distributed food to victims.
+district//지구//They live in the financial district.
+disturb//방해하다//Please do not disturb.
+diverse//다양한//The city has a diverse population.
+divide//나누다//Divide the cake into eight pieces.
+divine//신의//They believed in divine intervention.
+division//분할, 부서//There is division within the party.
+divorce//이혼//They decided to get a divorce.
+document//문서//Please sign this document.
+domain//영역//This is the domain of science.
+domestic//국내의, 가정의//Domestic violence is a serious problem.
+dominant//지배적인//English is the dominant language.
+dominate//지배하다//One team dominated the tournament.
+donate//기부하다//She donated money to charity.
+doom//운명, 파멸//The project was doomed to failure.
+doubt//의심//I have no doubt about his honesty.
+draft//초안, 징병//This is just a rough draft.
+drag//끌다//He dragged the heavy box.
+drain//배수하다//Rain drains into the sewers.
+drama//드라마//Greek drama influenced Western theater.
+drastic//과감한//The situation requires drastic measures.
+dread//두려워하다//I dread going to the dentist.
+drift//표류하다//The boat drifted out to sea.
+drought//가뭄//The drought destroyed crops.
+drown//익사하다//Three people drowned in the lake.
+durable//내구성 있는//This material is very durable.
+duration//지속기간//The meeting's duration was two hours.
+duty//의무//Citizens have a duty to vote.
+dwell//거주하다//They dwell in a small village.
+dynamic//역동적인//She has a dynamic personality.
+eager//열심인//Students were eager to learn.
+earn//벌다//He earns a good salary.
+ease//용이함, 완화하다//The medicine will ease your pain.
+economic//경제의//The country faces economic problems.
+edge//가장자리//Don't stand too close to the edge.
+edit//편집하다//Please edit this document carefully.
+edition//판//The first edition sold out quickly.
+educate//교육하다//Parents educate their children.
+effect//효과, 영향//The medicine had no effect.
+effective//효과적인//This is an effective solution.
+efficient//효율적인//Modern machines are very efficient.
+effort//노력//Success requires great effort.
+elaborate//정교한, 자세히 말하다//She wore an elaborate costume.
+elapse//경과하다//Three years elapsed before his return.
+elastic//탄력있는//Rubber is an elastic material.
+elect//선출하다//Citizens elect their representatives.
+electric//전기의//Electric cars are becoming popular.
+elegant//우아한//She wore an elegant dress.
+element//요소//Hydrogen is a chemical element.
+elevate//올리다//Exercise can elevate your mood.
+eliminate//제거하다//We must eliminate errors.
+elite//엘리트//He attended an elite university.
+eloquent//웅변의//She gave an eloquent speech.
+embrace//포옹하다, 받아들이다//They embraced each other warmly.
+emerge//나타나다//A solution finally emerged.
+emergency//비상사태//Call this number in an emergency.
+emigrate//이주하다//Many people emigrated to America.
+emission//배출//Car emissions pollute the air.
+emotion//감정//She showed no emotion.
+emphasize//강조하다//Teachers emphasize the importance of reading.
+empire//제국//The Roman Empire was vast.
+employ//고용하다//The company employs fifty workers.
+enable//가능하게 하다//Technology enables global communication.
+enclose//에워싸다//A fence encloses the garden.
+encounter//마주치다//We encountered several problems.
+encourage//격려하다//Parents should encourage their children.
+endanger//위태롭게 하다//Pollution endangers marine life.
+endeavor//노력하다//They will endeavor to finish on time.
+endorse//지지하다//Many celebrities endorsed the product.
+endure//견디다//She had to endure great pain.
+enemy//적//They defeated their enemy in battle.
+energy//에너지//Solar panels produce clean energy.
+enforce//시행하다//Police enforce the law.
+engage//참여시키다, 약혼하다//The teacher engaged students in discussion.
+enhance//향상시키다//Exercise can enhance your health.
+enormous//거대한//The universe is enormous.
+enquire//문의하다//Please enquire at the front desk.
+enrich//풍부하게 하다//Travel enriches your life experience.
+ensure//보장하다//Please ensure all windows are closed.
+enterprise//기업//She started her own enterprise.
+entertain//즐겁게 하다//Musicians entertained the guests.
+enthusiasm//열정//He showed great enthusiasm for the project.
+entire//전체의//She read the entire book.
+entitle//자격을 주다//This ticket entitles you to free entry.
+entity//실체//The company is a legal entity.
+entrance//입구//The entrance is on the left.
+entrepreneur//기업가//Successful entrepreneurs take risks.
+environment//환경//We must protect the environment.
+envy//부러워하다//I envy your success.
+episode//에피소드//I watched the latest episode.
+equal//동등한//All people are created equal.
+equation//방정식//Solve this mathematical equation.
+equip//장비를 갖추다//The army equipped soldiers with weapons.
+equivalent//동등한//These two amounts are equivalent.
+era//시대//The Victorian era lasted decades.
+erase//지우다//Please erase the blackboard.
+erect//세우다//They will erect a monument.
+erode//침식하다//Wind and water erode rocks.
+error//오류//There is an error in the calculation.
+erupt//분출하다//The volcano erupted violently.
+escape//탈출하다//The prisoner escaped from jail.
+essential//필수적인//Water is essential for life.
+establish//확립하다//They established a new company.
+estate//재산, 부동산//He inherited a large estate.
+estimate//추정하다//Can you estimate the cost.
+eternal//영원한//They pledged eternal love.
+ethical//윤리적인//Doctors must follow ethical guidelines.
+ethnic//민족의//The country has many ethnic groups.
+evacuate//대피시키다//Residents evacuated before the hurricane.
+evaluate//평가하다//Teachers evaluate student performance.
+evaporate//증발하다//Water evaporates in the sun.
+event//사건//The wedding was a memorable event.
+eventual//결국의//Their eventual success was inevitable.
+evidence//증거//The police collected evidence.
+evident//명백한//It was evident that he was lying.
+evil//악//They fought against evil.
+evoke//불러일으키다//The music evoked childhood memories.
+evolve//진화하다//Species evolve over millions of years.
+exaggerate//과장하다//Don't exaggerate the problem.
+examine//조사하다//Doctors examined the patient carefully.
+exceed//초과하다//Do not exceed the speed limit.
+excel//뛰어나다//She excels in mathematics.
+exception//예외//There are no exceptions to this rule.
+excerpt//발췌//They read an excerpt from the book.
+excess//과잉//Excess sugar is unhealthy.
+exchange//교환하다//Students exchanged gifts.
+excite//흥분시키다//The news excited everyone.
+exclude//배제하다//Don't exclude anyone from the group.
+exclusive//독점적인//This is an exclusive interview.
+execute//실행하다//The plan was executed perfectly.
+executive//임원//She is a top executive.
+exempt//면제하다//Children are exempt from paying taxes.
+exert//가하다//You must exert more effort.
+exhaust//소진시키다//The journey exhausted us completely.
+exhibit//전시하다//The museum exhibits modern art.
+exile//추방//The king was sent into exile.
+exist//존재하다//Do ghosts really exist.
+exit//출구//Where is the emergency exit.
+expand//확장하다//The company plans to expand overseas.
+expect//기대하다//I expect you to be on time.
+expenditure//지출//Government expenditure increased.
+expense//비용//Medical expenses are very high.
+experience//경험//She has ten years of experience.
+experiment//실험//Scientists conducted an experiment.
+expert//전문가//She is an expert in biology.
+expire//만료되다//Your passport will expire next month.
+explain//설명하다//Can you explain how this works.
+explicit//명백한//He gave explicit instructions.
+explode//폭발하다//The bomb exploded at midnight.
+exploit//착취하다, 이용하다//Companies exploit cheap labor.
+explore//탐험하다//They explored the ancient ruins.
+export//수출하다//Korea exports cars worldwide.
+expose//노출시키다//Don't expose your skin to sunlight.
+express//표현하다//She expressed her gratitude.
+extend//연장하다//Can you extend the deadline.
+extensive//광범위한//He has extensive knowledge.
+extent//정도//To what extent do you agree.
+external//외부의//External factors affected the result.
+extinct//멸종한//Dinosaurs are extinct.
+extinguish//끄다//Firefighters extinguished the blaze.
+extract//추출하다//They extract oil from the ground.
+extraordinary//비범한//She has extraordinary talent.
+extreme//극단적인//Extreme weather is dangerous.
+fabric//직물//Cotton is a natural fabric.
+facilitate//용이하게 하다//Technology facilitates communication.
+facility//시설//The hospital has modern facilities.
+factor//요인//Many factors influence success.
+faculty//능력, 교수진//He joined the university faculty.
+fade//희미해지다//Colors fade in sunlight.
+fail//실패하다//Don't be afraid to fail.
+faint//희미한//I heard a faint sound.
+fair//공정한//The judge made a fair decision.
+faith//믿음//She has strong religious faith.
+fake//가짜의//These diamonds are fake.
+fame//명성//He achieved fame as an actor.
+familiar//익숙한//This place looks familiar.
+famine//기근//The famine killed thousands.
+famous//유명한//She is a famous singer.
+fancy//공상, 화려한//He has a fancy car.
+fantastic//환상적인//The view is fantastic.
+fantasy//환상//Science fiction explores fantasy worlds.
+fare//요금//What is the bus fare.
+farewell//작별//They said their farewells.
+fascinate//매혹하다//Magic tricks fascinate children.
+fashion//유행, 방식//Fashion trends change rapidly.
+fatal//치명적인//The disease can be fatal.
+fate//운명//She believed in fate.
+fatigue//피로//Physical fatigue affected performance.
+fault//잘못//It's not your fault.
+favor//호의//Can you do me a favor.
+favorable//유리한//Conditions are favorable for growth.
+favorite//가장 좋아하는//Pizza is my favorite food.
+fear//두려움//She overcame her fear.
+feasible//실행가능한//The plan is not feasible.
+feast//잔치//They prepared a great feast.
+feature//특징//This phone has many features.
+federal//연방의//Federal law supersedes state law.
+fee//요금//The registration fee is expensive.
+feeble//약한//He gave a feeble excuse.
+feedback//피드백//Student feedback was positive.
+fellow//동료//He greeted his fellow workers.
+female//여성의//Female athletes competed fiercely.
+fence//울타리//A white fence surrounds the yard.
+fertile//비옥한//The soil is very fertile.
+festival//축제//They attended a music festival.
+fetch//가져오다//The dog fetched the ball.
+fever//열//She has a high fever.
+fiber//섬유//Vegetables contain dietary fiber.
+fiction//소설//She writes science fiction.
+fierce//사나운//The tiger is a fierce animal.
+figure//수치, 인물//The figure shows sales data.
+file//파일, 제출하다//Please file this document.
+filter//거르다//Water filters remove impurities.
+final//최종의//This is the final warning.
+finance//재정//The company has financial problems.
+fine//훌륭한, 벌금//The weather is fine today.
+finite//유한한//Natural resources are finite.
+firm//회사, 굳은//She works for a law firm.
+fiscal//재정의//The fiscal year ends in December.
+fit//적합한, 건강한//These shoes don't fit properly.
+fix//고정시키다, 고치다//Can you fix my computer.
+flame//불꽃//Flames destroyed the building.
+flash//번쩍이다//Lightning flashed across the sky.
+flat//평평한//The earth is not flat.
+flavor//맛//Vanilla is a popular flavor.
+flee//도망치다//People fled from the burning building.
+fleet//함대//A fleet of ships sailed away.
+flexible//유연한//Gymnasts are very flexible.
+flight//비행//The flight was delayed.
+flourish//번성하다//Arts flourished during the Renaissance.
+flow//흐르다//Rivers flow into the ocean.
+fluctuate//변동하다//Prices fluctuate constantly.
+fluent//유창한//She is fluent in English.
+fluid//유동체//Blood is a fluid.
+focus//초점을 맞추다//Please focus on your work.
+fold//접다//Fold the paper in half.
+folk//민속의//Folk music tells traditional stories.
+follow//따르다//Please follow the instructions.
+fond//좋아하는//She is fond of chocolate.
+forbid//금지하다//Smoking is strictly forbidden.
+force//힘, 강요하다//The police used excessive force.
+forecast//예측하다//Meteorologists forecast the weather.
+foreign//외국의//She speaks three foreign languages.
+foresee//예견하다//No one could foresee the disaster.
+forest//숲//The Amazon forest is vast.
+forge//위조하다, 만들다//He was arrested for forging documents.
+formal//공식적인//The event requires formal attire.
+format//형식//Save the file in PDF format.
+former//이전의//He is a former president.
+formula//공식//Einstein developed a famous formula.
+formulate//공식화하다//Scientists formulated a new theory.
+forthcoming//다가오는//Details will be announced in the forthcoming weeks.
+fortunate//운이 좋은//We were fortunate to survive.
+fortune//재산, 운//He made his fortune in business.
+forum//포럼//They discussed issues in a public forum.
+forward//앞으로//Please move forward.
+foster//양육하다, 촉진하다//Good teachers foster creativity.
+found//설립하다//They founded the company in 1990.
+foundation//기초, 재단//Education is the foundation of success.
+fraction//분수, 일부//Only a small fraction attended.
+fragment//파편//Glass fragments covered the floor.
+frame//틀, 구성하다//The picture needs a frame.
+framework//체계//The legal framework must be reformed.
+frank//솔직한//Let me be frank with you.
+fraud//사기//He was convicted of fraud.
+free//자유로운//Birds are free to fly.
+freedom//자유//Freedom of speech is important.
+freeze//얼다//Water freezes at zero degrees.
+freight//화물//Trains transport freight across the country.
+frequency//빈도//The frequency of earthquakes increased.
+frequent//빈번한//He makes frequent visits.
+fresh//신선한//Fresh vegetables are healthy.
+friction//마찰//Friction causes heat.
+frontier//국경, 개척지//They explored the western frontier.
+frustrate//좌절시키다//The delay frustrated passengers.
+fuel//연료//Cars need fuel to run.
+fulfill//이행하다//She fulfilled her promise.
+function//기능//What is the function of this organ.
+fund//자금//The project needs more funds.
+fundamental//기본적인//Reading is a fundamental skill.
+funeral//장례식//They attended his funeral.
+furious//격노한//She was furious about the decision.
+furnish//가구를 비치하다//They furnished the apartment.
+furthermore//게다가//Furthermore, costs will increase.
+fuse//퓨즈, 융합하다//The fuse blew during the storm.
+future//미래//What will the future bring.
+gain//얻다//You have nothing to gain.
+galaxy//은하//Our galaxy contains billions of stars.
+gallery//미술관//The art gallery opens at ten.
+gap//틈//There is a gap between rich and poor.
+garage//차고//Park your car in the garage.
+garbage//쓰레기//Take out the garbage please.
+garden//정원//She grows flowers in her garden.
+garment//의복//The factory produces garments.
+gas//가스//Natural gas heats homes.
+gather//모으다//They gathered around the fire.
+gaze//응시하다//He gazed at the stars.
+gender//성별//Gender equality is important.
+gene//유전자//Genes determine inherited traits.
+general//일반적인//This is a general rule.
+generate//생성하다//Solar panels generate electricity.
+generation//세대//The younger generation uses technology.
+generous//관대한//He made a generous donation.
+genius//천재//Einstein was a genius.
+genre//장르//Jazz is a music genre.
+gentle//온화한//She has a gentle nature.
+genuine//진짜의//This is genuine leather.
+geography//지리//Geography studies the earth's surface.
+gesture//몸짓//He made a friendly gesture.
+giant//거대한//Giant redwood trees are impressive.
+gift//선물//She received many birthday gifts.
+gigantic//거대한//The ship is gigantic.
+give//주다//Please give me your attention.
+glad//기쁜//I'm glad to meet you.
+glance//힐끗 보다//She glanced at her watch.
+glimpse//일별//I caught a glimpse of the celebrity.
+global//세계적인//Global warming affects everyone.
+globe//지구//They traveled around the globe.
+glorious//영광스러운//It was a glorious victory.
+glory//영광//Athletes compete for glory.
+goal//목표//My goal is to graduate.
+govern//통치하다//Laws govern society.
+government//정부//The government passed new legislation.
+grace//우아함//She moved with grace.
+grade//등급//She received top grades.
+gradual//점진적인//Climate change is gradual.
+graduate//졸업하다//He will graduate next year.
+grain//곡물//Wheat is an important grain.
+grant//주다, 교부금//The university granted him a scholarship.
+graph//그래프//The graph shows the results.
+grasp//잡다//I couldn't grasp the concept.
+grateful//감사하는//I am grateful for your help.
+gratitude//감사//She expressed her gratitude.
+grave//무덤, 중대한//This is a grave situation.
+gravity//중력//Gravity pulls objects downward.
+greed//탐욕//Greed destroys relationships.
+greet//인사하다//They greeted us warmly.
+grief//슬픔//She felt deep grief.
+grim//암울한//The situation looks grim.
+grind//갈다//Grind the coffee beans.
+grip//꽉 쥐다//He gripped the steering wheel.
+gross//총, 심한//The gross income was high.
+ground//땅//The ball fell to the ground.
+growth//성장//Economic growth slowed down.
+guarantee//보장하다//I cannot guarantee success.
+guard//경비원, 지키다//Guards protect the building.
+guess//추측하다//Can you guess the answer.
+guest//손님//We invited twenty guests.
+guidance//지도//Students need guidance from teachers.
+guide//안내하다//A tour guide showed us around.
+guilty//유죄의//The jury found him guilty.
+gulf//만//The Persian Gulf is strategic.
+habit//습관//Smoking is a bad habit.
+habitat//서식지//Forests are the natural habitat.
+halt//정지//The train came to a halt.
+hand//손//Wash your hands before eating.
+handful//한 줌//Only a handful of people came.
+handicap//장애//Physical handicaps don't limit potential.
+handle//다루다//Can you handle this situation.
+handsome//잘생긴//He is a handsome man.
+hang//걸다//Hang your coat on the hook.
+happen//발생하다//What happened yesterday.
+happiness//행복//Money cannot buy happiness.
+harbor//항구//Ships anchor in the harbor.
+hard//딱딱한, 어려운//This problem is very hard.
+hardware//하드웨어//Computer hardware needs upgrading.
+harm//해//Smoking causes serious harm.
+harmony//조화//They lived in harmony.
+harsh//가혹한//The punishment was too harsh.
+harvest//수확//Farmers harvest crops in autumn.
+haste//서둠//Make haste, we're late.
+hate//미워하다//I hate waking up early.
+haunt//괴롭히다//The memory haunted him.
+hazard//위험//Smoking is a health hazard.
+heal//치유하다//Time heals all wounds.
+heap//더미//A heap of garbage lay there.
+heart//심장, 마음//Exercise strengthens your heart.
+heat//열//Turn down the heat.
+heaven//천국//Religious people believe in heaven.
+heavy//무거운//This box is too heavy.
+height//높이//What is the height of that building.
+heir//상속인//The prince is heir to the throne.
+helium//헬륨//Helium makes balloons float.
+hemisphere//반구//Australia is in the southern hemisphere.
+hence//그러므로//Hence, we must act now.
+heritage//유산//Cultural heritage must be preserved.
+hero//영웅//Firefighters are everyday heroes.
+hesitate//주저하다//Don't hesitate to ask questions.
+hide//숨기다//Where did you hide the key.
+hierarchy//계층//Social hierarchies exist everywhere.
+highlight//강조하다//The report highlights key issues.
+hijack//납치하다//Terrorists hijacked the plane.
+hinder//방해하다//Bad weather hindered progress.
+hint//암시//She gave me a hint.
+hire//고용하다//Companies hire qualified workers.
+historic//역사적인//This is a historic moment.
+hitherto//지금까지//Hitherto unknown facts emerged.
+hobby//취미//Reading is my favorite hobby.
+hold//잡다//Hold my hand tightly.
+hollow//속이 빈//The tree trunk is hollow.
+holy//신성한//Jerusalem is a holy city.
+homogeneous//동질의//The mixture is homogeneous.
+honest//정직한//Be honest with yourself.
+honor//명예//He fought for honor.
+horizon//지평선//The sun set below the horizon.
+horizontal//수평의//Draw a horizontal line.
+hormone//호르몬//Hormones regulate body functions.
+horrible//끔찍한//The accident was horrible.
+horror//공포//Horror movies scare people.
+host//주인//She was a gracious host.
+hostile//적대적인//They received a hostile reception.
+household//가정//Every household needs income.
+housing//주택//Affordable housing is scarce.
+however//그러나//However, we must continue.
+huge//거대한//Elephants are huge animals.
+human//인간//All human beings deserve respect.
+humble//겸손한//Despite success, he remained humble.
+humid//습한//The weather is hot and humid.
+humiliate//모욕하다//Don't humiliate people publicly.
+humor//유머//She has a good sense of humor.
+hunger//배고픔//Millions suffer from hunger.
+hunt//사냥하다//Lions hunt at night.
+hurry//서두르다//Hurry up, we're late.
+hurt//다치게 하다//I hurt my knee playing soccer.
+husband//남편//Her husband is a doctor.
+hybrid//잡종//This car is a hybrid vehicle.
+hydrogen//수소//Hydrogen is the lightest element.
+hypothesis//가설//Scientists test their hypotheses.
+ice//얼음//Ice melts at room temperature.
+ideal//이상적인//This is the ideal solution.
+identical//동일한//The twins look identical.
+identify//확인하다//Can you identify this plant.
+identity//정체성//Cultural identity is important.
+ideology//이데올로ギ//Political ideologies differ greatly.
+idiom//관용구//Every language has idioms.
+idle//게으른//Don't sit idle all day.
+ignorant//무지한//He is ignorant of basic facts.
+ignore//무시하다//Don't ignore my advice.
+illegal//불법의//Stealing is illegal.
+illiterate//문맹의//Many adults remain illiterate.
+illuminate//비추다//Candles illuminated the room.
+illusion//환상//Optical illusions trick the eye.
+illustrate//설명하다//The diagram illustrates the process.
+image//이미지//The company needs a better image.
+imaginary//상상의//Dragons are imaginary creatures.
+imagination//상상력//Children have vivid imaginations.
+imitate//모방하다//Children imitate their parents.
+immediate//즉각적인//We need immediate action.
+immense//거대한//The ocean is immense.
+immigrate//이민오다//Many people immigrated to America.
+imminent//임박한//Danger is imminent.
+immune//면역의//Vaccines make you immune to diseases.
+impact//영향//Technology has great impact.
+impartial//공평한//Judges must be impartial.
+impede//방해하다//Bureaucracy impedes progress.
+impending//임박한//They sensed impending doom.
+imperative//필수적인//Action is imperative now.
+imperial//제국의//The imperial palace is magnificent.
+implement//시행하다//We must implement new policies.
+implication//함축//What are the implications.
+implicit//암시적인//There was implicit criticism.
+imply//암시하다//What are you trying to imply.
+import//수입하다//Japan imports oil.
+impose//부과하다//The government imposed new taxes.
+impress//감동시키다//Her performance impressed everyone.
+imprison//투옥하다//He was imprisoned for theft.
+improve//개선하다//Practice will improve your skills.
+impulse//충동//She bought it on impulse.
+inadequate//부적절한//The funding is inadequate.
+incentive//동기//Money is a powerful incentive.
+incident//사건//There was an unfortunate incident.
+incline//기울다//The road inclines steeply.
+include//포함하다//The price includes tax.
+income//소득//Average income has increased.
+incomplete//불완전한//The work remains incomplete.
+incorporate//통합하다//The city incorporated the suburb.
+increase//증가하다//Profits increased dramatically.
+incredible//믿을 수 없는//The view is incredible.
+incur//초래하다//Carelessness incurs penalties.
+indeed//정말로//It was indeed a surprise.
+independence//독립//Korea gained independence in 1945.
+index//색인//Check the index for page numbers.
+indicate//나타내다//Results indicate improvement.
+indifferent//무관심한//He seemed indifferent to criticism.
+indigenous//토착의//Indigenous people have special rights.
+indispensable//필수불가결한//Water is indispensable for life.
+individual//개인의//Every individual is unique.
+induce//유도하다//Certain drugs induce sleep.
+indulge//탐닉하다//Don't indulge in bad habits.
+industrial//산업의//Industrial pollution is serious.
+industry//산업//The automobile industry is huge.
+inevitable//피할 수 없는//Death is inevitable.
+infant//유아//Infants need constant care.
+infect//감염시키다//Bacteria can infect wounds.
+infer//추론하다//What can we infer from this.
+inferior//열등한//This product is inferior quality.
+infinite//무한한//The universe seems infinite.
+inflate//부풀리다//Inflate the balloon slowly.
+influence//영향//Parents influence children greatly.
+inform//알리다//Please inform me immediately.
+infrastructure//기반시설//The country needs better infrastructure.
+infringe//침해하다//Don't infringe on others' rights.
+ingenious//독창적인//That's an ingenious solution.
+ingredient//재료//List all the ingredients.
+inhabit//거주하다//Many species inhabit rainforests.
+inherent//내재하는//Risk is inherent in investment.
+inherit//상속하다//She inherited money from her aunt.
+inhibit//억제하다//Fear inhibits creativity.
+initial//최초의//The initial response was positive.
+initiate//시작하다//Who initiated this project.
+inject//주입하다//Doctors inject medicine.
+injure//다치게 하다//Three people were injured.
+injury//부상//He suffered a serious injury.
+injustice//부정//We must fight injustice.
+innocent//무죄의//The court found him innocent.
+innovation//혁신//Innovation drives progress.
+input//입력//Your input is valuable.
+inquire//문의하다//I inquired about the price.
+insect//곤충//Bees are useful insects.
+insert//삽입하다//Insert the key into the lock.
+insight//통찰력//She has great insight.
+insignificant//중요하지 않은//The difference is insignificant.
+insist//주장하다//He insisted on paying.
+inspect//검사하다//Customs officials inspect luggage.
+inspire//영감을 주다//Great teachers inspire students.
+install//설치하다//Install the software carefully.
+instance//경우//In this instance, I agree.
+instant//즉각의//Instant coffee is convenient.
+instead//대신에//Take the bus instead.
+instinct//본능//Animals act on instinct.
+institute//설립하다, 연구소//They instituted new reforms.
+institution//기관//Universities are educational institutions.
+instruct//지시하다//The teacher instructed students.
+instrument//도구//The piano is a musical instrument.
+insufficient//불충분한//Evidence is insufficient.
+insult//모욕하다//Don't insult people.
+insurance//보험//Health insurance is expensive.
+intact//손상되지 않은//The building remained intact.
+integrate//통합하다//Schools should integrate students.
+integrity//성실//He is a man of integrity.
+intellectual//지적인//She enjoys intellectual discussions.
+intelligence//지능//Dolphins have high intelligence.
+intend//의도하다//I didn't intend to offend you.
+intense//강렬한//The heat was intense.
+intent//의도//What was your intent.
+interact//상호작용하다//Students interact with teachers.
+interest//흥미, 이자//History interests me greatly.
+interfere//간섭하다//Don't interfere in my affairs.
+interior//내부//The car has a leather interior.
+intermediate//중급의//This is an intermediate course.
+internal//내부의//Internal conflicts damaged the party.
+international//국제적인//It's an international organization.
+interpret//해석하다//How do you interpret this poem.
+interrupt//중단시키다//Don't interrupt me while speaking.
+interval//간격//There was a brief interval.
+intervene//개입하다//The government must intervene.
+interview//인터뷰//She had a job interview.
+intimate//친밀한//They are intimate friends.
+intimidate//위협하다//Bullies intimidate weaker students.
+intricate//복잡한//The design is intricate.
+intrigue//흥미를 끌다//The mystery intrigued everyone.
+introduce//소개하다//Let me introduce myself.
+intrude//침입하다//Don't intrude on their privacy.
+intuition//직감//Trust your intuition.
+invade//침략하다//Enemy forces invaded the country.
+invalid//무효의//The ticket is invalid.
+invaluable//매우 귀중한//Your advice is invaluable.
+invariable//변하지 않는//The routine was invariable.
+invasion//침략//The invasion began at dawn.
+invent//발명하다//Edison invented the lightbulb.
+invest//투자하다//She invested in real estate.
+investigate//조사하다//Police investigate crimes.
+invisible//보이지 않는//Air is invisible.
+invite//초대하다//They invited me to dinner.
+invoke//호소하다//He invoked his right to silence.
+involve//포함하다//The job involves travel.
+inward//안쪽으로//He turned inward emotionally.
+iron//철, 다리미//Iron is a strong metal.
+irrational//비이성적인//Fear can be irrational.
+irregular//불규칙한//His attendance is irregular.
+irrelevant//무관한//That comment is irrelevant.
+irrigate//관개하다//Farmers irrigate their fields.
+irritate//짜증나게 하다//Loud music irritates me.
+isolate//고립시키다//The village was isolated by floods.
+issue//문제, 발행하다//Climate change is an important issue.
+item//항목//Check each item on the list.
+jail//감옥//The criminal went to jail.
+jealous//질투하는//He felt jealous of her success.
+jeopardize//위태롭게 하다//Don't jeopardize your health.
+joint//공동의//They made a joint decision.
+journal//저널//She writes in her journal daily.
+journey//여행//Life is a journey.
+joy//기쁨//Children bring joy to parents.
+judge//판사, 판단하다//Don't judge people by appearance.
+judgment//판단//Use good judgment.
+judicial//사법의//The judicial system needs reform.
+junction//교차점//Turn left at the junction.
+junior//연소한//He is my junior by two years.
+jury//배심원//The jury reached a verdict.
+just//공정한, 단지//That's just not fair.
+justice//정의//Justice must be served.
+justify//정당화하다//How can you justify your actions.
+keen//열심인//She has a keen interest.
+key//열쇠, 핵심//Education is the key to success.
+kick//차다//He kicked the ball hard.
+kill//죽이다//Smoking kills thousands annually.
+kin//친척//He has no living kin.
+kind//친절한//She is very kind to everyone.
+kingdom//왕국//The United Kingdom comprises four countries.
+knowledge//지식//Knowledge is power.
+label//라벨//Read the label carefully.
+labor//노동//Manual labor is physically demanding.
+laboratory//실험실//Scientists work in laboratories.
+lack//부족//There is a lack of water.
+lag//뒤지다//Our technology lags behind.
+land//땅//They own a lot of land.
+landmark//랜드마크//The tower is a famous landmark.
+landscape//풍경//The mountain landscape is beautiful.
+language//언어//English is a global language.
+large//큰//Elephants are large animals.
+largely//주로//Success depends largely on effort.
+last//마지막의//This is my last chance.
+late//늦은//Don't be late for school.
+lateral//측면의//Think about lateral solutions.
+latter//후자의//Of the two options, I prefer the latter.
+laugh//웃다//The joke made everyone laugh.
+launch//발사하다//NASA will launch a rocket tomorrow.
+laundry//세탁물//She does laundry every weekend.
+law//법//Everyone must obey the law.
+lawyer//변호사//The lawyer defended his client.
+layer//층//The cake has three layers.
+lazy//게으른//Don't be lazy about homework.
+lead//이끌다//She will lead the team.
+leader//지도자//Nelson Mandela was a great leader.
+leading//주요한//He plays a leading role.
+leaf//잎//Autumn leaves turn colors.
+leak//새다//The roof leaks when it rains.
+lean//기대다//He leaned against the wall.
+leap//뛰다//The cat leaped onto the table.
+learn//배우다//Children learn quickly.
+lease//임대하다//They lease the building.
+least//최소의//This costs the least money.
+leather//가죽//The jacket is made of leather.
+leave//떠나다//What time do you leave.
+lecture//강의//The professor gave a lecture.
+legal//합법적인//Marijuana is legal in some states.
+legend//전설//King Arthur is a legend.
+legislation//법률//New legislation was passed.
+legitimate//합법적인//That's a legitimate concern.
+leisure//여가//How do you spend leisure time.
+lend//빌려주다//Can you lend me some money.
+length//길이//Measure the length accurately.
+lens//렌즈//Camera lenses are expensive.
+less//더 적은//Eat less sugar.
+lessen//줄이다//Exercise can lessen stress.
+lesson//교훈//We learned a valuable lesson.
+let//허락하다//Let me help you.
+level//수준//Her English level is advanced.
+lever//지렛대//Use a lever to lift it.
+liable//책임이 있는//The company is liable for damages.
+liberal//자유주의의//He has liberal political views.
+liberate//해방하다//The army liberated the city.
+liberty//자유//Give me liberty or death.
+library//도서관//I borrowed books from the library.
+license//면허//You need a driver's license.
+lie//거짓말, 눕다//Don't lie to me.
+life//생명//Life is precious.
+lift//들어올리다//Can you lift this box.
+light//빛//Turn on the light please.
+lightning//번개//Lightning struck the tree.
+like//좋아하다//I like chocolate ice cream.
+likely//~할 것 같은//Rain is likely tomorrow.
+likewise//마찬가지로//I enjoyed it, and likewise she did.
+limb//팔다리//He injured his limb.
+limit//제한하다//Speed limits ensure safety.
+line//선, 줄//Draw a straight line.
+linear//선형의//This is a linear equation.
+linger//머물다//The smell lingered for hours.
+link//연결하다//Click the link below.
+liquid//액체//Water is a liquid.
+list//목록//Make a shopping list.
+listen//듣다//Listen carefully to instructions.
+literal//문자 그대로의//That's the literal meaning.
+literary//문학의//She has literary talent.
+literature//문학//Shakespeare's literature is famous.
+little//작은//She lives in a little house.
+live//살다//Where do you live.
+lively//활기찬//The party was very lively.
+livestock//가축//Farmers raise livestock.
+living//생활//What do you do for a living.
+load//짐//The truck carried a heavy load.
+loan//대출//He took out a bank loan.
+local//지역의//Support local businesses.
+locate//위치시키다//Can you locate the problem.
+location//위치//This is a perfect location.
+lock//자물쇠//Lock the door at night.
+logic//논리//Your logic is flawed.
+logical//논리적인//That's a logical conclusion.
+lonely//외로운//She felt lonely without friends.
+long//긴//It's a long journey.
+look//보다//Look at the beautiful sunset.
+loose//느슨한//The rope is too loose.
+lose//잃다//Don't lose your keys.
+loss//손실//The company suffered financial losses.
+lot//많은//There are a lot of people.
+loud//시끄러운//The music is too loud.
+love//사랑//Parents love their children.
+lovely//사랑스러운//What a lovely day.
+low//낮은//Prices are unusually low.
+lower//낮추다//Please lower your voice.
+loyal//충실한//Dogs are loyal companions.
+luck//운//Good luck on your exam.
+lucky//운이 좋은//I was lucky to survive.
+luggage//짐//Check your luggage at the counter.
+lunar//달의//The lunar eclipse was spectacular.
+lunch//점심//What did you have for lunch.
+lung//폐//Smoking damages your lungs.
+luxury//사치//Private jets are a luxury.
+machine//기계//This machine makes copies.
+machinery//기계류//Factory machinery needs maintenance.
+mad//미친//He went mad with grief.
+magazine//잡지//Fashion magazines are popular.
+magic//마법//Children believe in magic.
+magnetic//자기의//The earth has a magnetic field.
+magnificent//장엄한//The palace is magnificent.
+magnitude//크기//The earthquake's magnitude was high.
+maid//하녀//The maid cleaned the rooms.
+mail//우편//Check your mail daily.
+main//주요한//What's the main idea.
+mainland//본토//Taiwan is separate from the mainland.
+maintain//유지하다//Maintain a healthy lifestyle.
+maintenance//유지//Car maintenance is important.
+major//주요한//Cancer is a major health problem.
+majority//대다수//The majority voted yes.
+make//만들다//Can you make dinner tonight.
+male//남성의//Male and female students study together.
+mammal//포유동물//Whales are marine mammals.
+man//남자//The man walked down the street.
+manage//관리하다//She manages a large company.
+management//경영//Good management is essential.
+manager//관리자//The store manager is helpful.
+mandate//명령//The government has a mandate.
+mandatory//의무적인//Attendance is mandatory.
+manifest//명백한//His guilt was manifest.
+manipulate//조작하다//Don't manipulate the data.
+manner//방식//Do it in a professional manner.
+manual//수동의, 설명서//Read the instruction manual.
+manufacture//제조하다//This company manufactures cars.
+manuscript//원고//The author submitted her manuscript.
+many//많은//Many people attended the concert.
+map//지도//Use a map to find directions.
+margin//여백//Write notes in the margin.
+marine//해양의//Marine biology studies ocean life.
+mark//표시//Mark the correct answer.
+market//시장//She went to the farmers market.
+marriage//결혼//Marriage requires commitment.
+marry//결혼하다//They will marry next month.
+marvelous//놀라운//The view is marvelous.
+mass//질량, 대중//The mass of the object is large.
+massacre//대학살//The massacre shocked the world.
+massive//거대한//A massive earthquake struck.
+master//주인, 숙달하다//He mastered the language quickly.
+match//경기, 어울리다//The tennis match was exciting.
+mate//짝//Birds choose their mates carefully.
+material//물질//Wood is a natural material.
+mathematical//수학적인//He solved the mathematical problem.
+matter//문제, 물질//What's the matter with you.
+mature//성숙한//She is very mature for her age.
+maximum//최대//The maximum speed is 100.
+may//~할지도 모른다//It may rain tomorrow.
+mayor//시장//The mayor addressed citizens.
+meadow//초원//Cows grazed in the meadow.
+meal//식사//Breakfast is the most important meal.
+mean//의미하다//What does this word mean.
+meaning//의미//Life's meaning differs for everyone.
+means//수단//The end justifies the means.
+meantime//그 동안//In the meantime, wait here.
+meanwhile//한편//Meanwhile, others were working.
+measure//측정하다//Measure the temperature.
+measurement//측정//Accurate measurement is important.
+meat//고기//Vegetarians don't eat meat.
+mechanic//정비사//The mechanic fixed my car.
+mechanical//기계적인//He has mechanical skills.
+mechanism//기계장치//The mechanism is complex.
+media//매체//Social media influences opinions.
+mediate//중재하다//Someone must mediate the dispute.
+medical//의학의//She needs medical attention.
+medicine//약//Take your medicine regularly.
+medieval//중세의//Medieval castles are fascinating.
+medium//중간의//Choose a medium size shirt.
+meet//만나다//Let's meet at noon.
+meeting//회의//The meeting starts at three.
+melody//멜로디//The melody is beautiful.
+melt//녹다//Ice melts in warm weather.
+member//회원//She is a club member.
+membrane//막//Cell membranes are selective.
+memo//메모//Send a memo to all staff.
+memorable//기억할 만한//It was a memorable experience.
+memorial//기념물//They built a war memorial.
+memory//기억//She has an excellent memory.
+menace//위협//Drunk drivers are a menace.
+mend//수선하다//Can you mend this shirt.
+mental//정신의//Mental health is important.
+mention//언급하다//Don't mention it to anyone.
+merchandise//상품//The store sells various merchandise.
+merchant//상인//Merchants sell goods for profit.
+mercy//자비//The judge showed no mercy.
+mere//단지//It was a mere coincidence.
+merely//단지//I merely asked a question.
+merge//합병하다//The two companies will merge.
+merit//장점//Each proposal has merit.
+mess//엉망//Clean up this mess.
+message//메시지//I left you a message.
+metal//금속//Gold is a precious metal.
+metaphor//은유//The poem uses metaphors.
+method//방법//This method works well.
+metropolis//대도시//Seoul is a major metropolis.
+middle//중간//Stand in the middle.
+midst//한가운데//In the midst of chaos.
+might//힘, ~할지도 모른다//He might come later.
+mighty//강력한//The mighty river flows.
+migrate//이주하다//Birds migrate south in winter.
+mild//온화한//The weather is mild today.
+military//군대의//He joined the military.
+milk//우유//Drink milk for strong bones.
+mill//공장//The steel mill closed down.
+millionaire//백만장자//She became a millionaire.
+mimic//흉내내다//Parrots can mimic human speech.
+mind//마음//Change your mind if necessary.
+mine//광산, 나의 것//This book is mine.
+mineral//광물//The region has mineral deposits.
+miniature//축소형//He collects miniature cars.
+minimum//최소//The minimum wage increased.
+minister//장관//The prime minister spoke.
+ministry//부//The Ministry of Education.
+minor//사소한//It's just a minor problem.
+minority//소수//Minorities deserve equal rights.
+minute//분//Wait a minute please.
+miracle//기적//His recovery was a miracle.
+mirror//거울//Look in the mirror.
+miserable//비참한//The weather was miserable.
+misery//불행//War brings misery.
+misfortune//불행//He suffered great misfortune.
+mislead//오도하다//Don't mislead people deliberately.
+miss//놓치다//Don't miss the bus.
+missile//미사일//The country tested a missile.
+mission//임무//Their mission was accomplished.
+mist//안개//Morning mist covered the valley.
+mistake//실수//Everyone makes mistakes.
+mistress//여주인//She was the mistress of the house.
+mix//섞다//Mix the ingredients thoroughly.
+mixture//혼합물//Oil and water don't form a mixture.
+moan//신음하다//The patient moaned in pain.
+mobile//이동식의//Mobile phones are everywhere.
+mobility//이동성//Electric scooters increase mobility.
+mock//조롱하다//Don't mock people's mistakes.
+mode//방식//Switch to flight mode.
+model//모델//She works as a fashion model.
+moderate//온건한//He has moderate political views.
+modern//현대의//Modern technology advances rapidly.
+modest//겸손한//Despite fame, she remained modest.
+modify//수정하다//Please modify the document.
+moist//촉촉한//Keep the soil moist.
+moisture//습기//Humidity measures moisture.
+mold//곰팡이, 주형//Remove mold from walls.
+molecule//분자//Water molecules contain hydrogen.
+moment//순간//Wait just a moment.
+momentum//추진력//The campaign gained momentum.
+monarch//군주//Queen Elizabeth was a monarch.
+monarchy//군주제//Britain is a constitutional monarchy.
+monastery//수도원//Monks live in monasteries.
+monetary//화폐의//Monetary policy affects inflation.
+money//돈//Money can't buy happiness.
+monitor//감시하다//Teachers monitor student progress.
+monopoly//독점//The company has a monopoly.
+monotonous//단조로운//The job is monotonous.
+monster//괴물//Children fear imaginary monsters.
+month//달//January is the first month.
+monument//기념물//They erected a monument.
+mood//기분//She's in a good mood.
+moon//달//The moon orbits earth.
+moral//도덕적인//Make moral decisions.
+morale//사기//Team morale is high.
+morality//도덕//Religion teaches morality.
+moreover//게다가//Moreover, costs will increase.
+morning//아침//Good morning everyone.
+mortal//죽을 운명의//All humans are mortal.
+mortality//사망률//Infant mortality decreased.
+mortgage//저당//They took out a mortgage.
+mosque//모스크//Muslims pray in mosques.
+mosquito//모기//Mosquitoes spread diseases.
+most//대부분의//Most people agree.
+mostly//대체로//The audience was mostly young.
+mother//어머니//My mother is a teacher.
+motion//움직임//The motion was approved.
+motivate//동기를 부여하다//Teachers motivate students.
+motive//동기//What was the motive.
+motor//모터//The motor stopped working.
+mount//오르다//They will mount an expedition.
+mountain//산//Everest is the highest mountain.
+mourn//애도하다//The nation mourned the leader.
+mouth//입//Open your mouth wide.
+move//움직이다//Don't move during the photo.
+movement//움직임//The civil rights movement.
+movie//영화//Let's watch a movie tonight.
+much//많은//How much does it cost.
+mud//진흙//His shoes were covered in mud.
+multiple//다수의//There are multiple solutions.
+multiply//곱하다//Multiply five by six.
+multitude//다수//A multitude of problems arose.
+municipal//시의//Municipal elections are next month.
+murder//살인//Murder is a serious crime.
+muscle//근육//Exercise builds muscle.
+museum//박물관//The museum displays ancient art.
+mushroom//버섯//Some mushrooms are poisonous.
+music//음악//Classical music is relaxing.
+musical//음악의//She has musical talent.
+musician//음악가//Mozart was a brilliant musician.
+must//~해야 한다//You must obey the rules.
+mutual//상호의//They have mutual respect.
+mysterious//신비로운//The disappearance is mysterious.
+mystery//미스터리//The crime remains a mystery.
+myth//신화//Greek myths are fascinating.
+nail//못//Hammer the nail carefully.
+naive//순진한//Don't be so naive.
+naked//벌거벗은//The baby was naked.
+name//이름//What's your name.
+namely//즉//Three people came, namely Tom, Sue, and Jim.
+napkin//냅킨//Use a napkin to wipe.
+narrative//이야기//The narrative was compelling.
+narrow//좁은//The street is very narrow.
+nasty//불쾌한//That was a nasty comment.
+nation//국가//Korea is a developed nation.
+national//국가의//National security is important.
+native//원주민의//English is her native language.
+natural//자연의//Natural disasters occur frequently.
+nature//자연//Nature is beautiful.
+naval//해군의//He joined the naval academy.
+navigate//항해하다//Ships navigate using GPS.
+navy//해군//He served in the navy.
+near//가까운//The store is near here.
+nearby//근처의//There's a park nearby.
+nearly//거의//We're nearly finished.
+neat//깔끔한//Keep your room neat.
+necessarily//반드시//That's not necessarily true.
+necessary//필요한//Sleep is necessary for health.
+necessity//필요//Food is a basic necessity.
+neck//목//She wore a scarf around her neck.
+need//필요하다//I need your help.
+needle//바늘//Thread the needle carefully.
+negative//부정적인//Don't be so negative.
+neglect//무시하다//Don't neglect your health.
+negligent//태만한//The driver was negligent.
+negotiate//협상하다//Diplomats negotiate treaties.
+neighbor//이웃//Be friendly to your neighbors.
+neighborhood//이웃//This is a safe neighborhood.
+neither//둘 다 ~아닌//Neither option is perfect.
+nephew//조카//My nephew is five years old.
+nerve//신경//The dentist hit a nerve.
+nervous//긴장한//She felt nervous before the exam.
+nest//둥지//Birds build nests in trees.
+net//그물//Fishermen use nets.
+network//네트워크//Social networks connect people.
+neutral//중립의//Switzerland remained neutral.
+never//결코 ~않다//Never give up hope.
+nevertheless//그럼에도 불구하고//It was difficult; nevertheless, we succeeded.
+new//새로운//I bought a new car.
+news//뉴스//Did you hear the news.
+newspaper//신문//Read the newspaper daily.
+next//다음의//Next week we'll travel.
+nice//좋은//Have a nice day.
+niece//조카딸//My niece is very talented.
+night//밤//The stars shine at night.
+nightmare//악몽//I had a terrible nightmare.
+noble//고귀한//He has noble intentions.
+nobody//아무도 ~않다//Nobody knows the answer.
+nod//끄덕이다//She nodded in agreement.
+noise//소음//The noise kept me awake.
+nominate//지명하다//She was nominated for an award.
+none//아무것도 ~않다//None of the answers are correct.
+nonetheless//그럼에도 불구하고//It was expensive; nonetheless, I bought it.
+nonsense//허튼소리//That's complete nonsense.
+noon//정오//We'll meet at noon.
+nor//~도 아니다//Neither he nor I know.
+norm//규범//Social norms vary culturally.
+normal//정상의//Everything seems normal.
+normally//보통//I normally wake at seven.
+north//북//Canada is north of America.
+northern//북쪽의//She lives in northern Europe.
+nose//코//My nose is stuffy.
+notable//주목할 만한//She made notable achievements.
+note//메모//Take notes during the lecture.
+nothing//아무것도 ~않다//Nothing is impossible.
+notice//알아차리다//Did you notice anything strange.
+noticeable//눈에 띄는//There's a noticeable difference.
+notify//통지하다//Please notify me immediately.
+notion//개념//I have no notion of what you mean.
+notorious//악명높은//He's notorious for lying.
+notwithstanding//~에도 불구하고//Notwithstanding the rain, we continued.
+noun//명사//Cat is a noun.
+nourish//영양을 주다//Vegetables nourish the body.
+novel//소설//She wrote a bestselling novel.
+novelty//새로움//The novelty wore off quickly.
+now//지금//We must leave now.
+nowadays//요즘//Nowadays everyone has smartphones.
+nowhere//어디에도 ~않다//The keys are nowhere to be found.
+nuclear//핵의//Nuclear energy is controversial.
+nucleus//핵//The nucleus contains protons.
+nuisance//성가신 것//Mosquitoes are a nuisance.
+number//숫자//Think of a number.
+numerous//많은//She made numerous mistakes.
+nurse//간호사//Nurses care for patients.
+nursery//보육원//The baby sleeps in the nursery.
+nurture//양육하다//Parents nurture children.
+nut//견과류//Almonds are healthy nuts.
+nutrition//영양//Good nutrition prevents disease.
+obedient//순종하는//The dog is very obedient.
+obey//복종하다//Children should obey their parents.
+object//물체, 반대하다//I object to that statement.
+objection//반대//Does anyone have objections.
+objective//객관적인, 목표//Try to be objective.
+obligation//의무//You have no obligation to help.
+oblige//강요하다//I'm obliged to inform you.
+obscure//불분명한//The meaning is obscure.
+observation//관찰//Scientific observation requires precision.
+observe//관찰하다//Observe the stars tonight.
+observer//관찰자//He was merely an observer.
+obsess//사로잡히다//Don't obsess over mistakes.
+obstacle//장애물//Poverty is an obstacle to education.
+obstinate//완고한//He's too obstinate to listen.
+obstruct//방해하다//Don't obstruct justice.
+obtain//얻다//How did you obtain this information.
+obvious//명백한//The solution is obvious.
+obviously//명백히//Obviously, we need more time.
+occasion//경우//On this special occasion.
+occasional//가끔의//I make occasional mistakes.
+occasionally//가끔//I occasionally eat fast food.
+occupation//직업//What's your occupation.
+occupy//점령하다//Enemy forces occupied the city.
+occur//발생하다//Accidents occur unexpectedly.
+occurrence//사건//This is a rare occurrence.
+ocean//바다//The Pacific Ocean is vast.
+odd//이상한//That's very odd behavior.
+odor//냄새//The room has a strange odor.
+off//떨어져//Turn off the lights.
+offend//불쾌하게 하다//I didn't mean to offend you.
+offense//범죄//He was charged with an offense.
+offensive//공격적인//His language was offensive.
+offer//제공하다//They offered me a job.
+office//사무실//My office is downtown.
+officer//공무원//Police officers maintain order.
+official//공식적인//This is the official announcement.
+offset//상쇄하다//Gains offset the losses.
+offspring//자손//Parents protect their offspring.
+often//자주//How often do you exercise.
+oil//기름//Oil prices fluctuate constantly.
+old//늙은//My grandfather is very old.
+omit//생략하다//Don't omit important details.
+once//한번//I've been there once.
+ongoing//진행중인//Research is ongoing.
+onion//양파//Cutting onions makes you cry.
+online//온라인의//Shop online for convenience.
+only//오직//I have only one dollar.
+onset//시작//The onset of winter.
+onto//~위로//Jump onto the platform.
+open//열다//Please open the window.
+opening//개통//The store's opening is tomorrow.
+operate//작동하다//How do you operate this machine.
+operation//수술, 작동//The operation was successful.
+operator//운영자//Call the operator for help.
+opinion//의견//What's your opinion on this.
+opponent//상대//She defeated her opponent.
+opportunity//기회//This is a great opportunity.
+oppose//반대하다//Many people opposed the plan.
+opposite//반대의//They have opposite opinions.
+opposition//반대//There was strong opposition.
+oppress//억압하다//Dictators oppress their people.
+opt//선택하다//I opted for the cheaper option.
+optical//시각의//Optical illusions deceive the eye.
+optimistic//낙관적인//Stay optimistic about the future.
+option//선택//You have several options.
+optional//선택적인//Homework is optional tonight.
+or//또는//Tea or coffee.
+oral//구두의//The exam has an oral component.
+orange//오렌지//Oranges contain vitamin C.
+orbit//궤도//The moon orbits earth.
+orchestra//오케스트라//The orchestra played beautifully.
+order//명령, 순서//Follow my orders.
+orderly//정돈된//Keep files in orderly fashion.
+ordinary//보통의//It was an ordinary day.
+ore//광석//Iron ore is mined extensively.
+organ//장기//The heart is a vital organ.
+organic//유기농의//Organic food is healthier.
+organism//유기체//Living organisms need water.
+organization//조직//The organization helps refugees.
+organize//조직하다//Organize your schedule carefully.
+orient//동양//He traveled to the Orient.
+oriental//동양의//Oriental cultures are diverse.
+orientation//오리엔테이션//Freshman orientation is next week.
+origin//기원//What's the word's origin.
+original//원래의//Keep the original copy.
+originally//원래//Originally, I planned differently.
+originate//유래하다//Jazz originated in America.
+ornament//장식품//Christmas ornaments are beautiful.
+orphan//고아//The orphan was adopted.
+orthodox//정통의//He has orthodox religious views.
+other//다른//Do you have other questions.
+otherwise//그렇지 않으면//Hurry, otherwise you'll be late.
+ought//~해야 한다//You ought to study harder.
+ounce//온스//The package weighs sixteen ounces.
+our//우리의//This is our house.
+ourselves//우리 자신//We did it ourselves.
+outcome//결과//What was the outcome.
+outdoor//야외의//Outdoor activities are fun.
+outer//외부의//The outer layer protects.
+outfit//복장//She wore a stylish outfit.
+outlet//출구//This is an electrical outlet.
+outline//개요//Write an essay outline first.
+outlook//전망//The economic outlook improved.
+output//산출//Factory output increased.
+outrage//격분//Public outrage forced action.
+outset//시작//Problems arose at the outset.
+outside//밖//Let's go outside.
+outstanding//뛰어난//She received outstanding grades.
+outward//외부로//He showed no outward emotion.
+oven//오븐//Bake the cake in the oven.
+over//~위에//The plane flew over mountains.
+overall//전반적인//Overall, the project succeeded.
+overcome//극복하다//She overcame many obstacles.
+overlook//간과하다//Don't overlook small details.
+overnight//하룻밤//Stay overnight at a hotel.
+overseas//해외로//He works overseas.
+overtake//추월하다//The car overtook us quickly.
+overtime//시간외 근무//He worked overtime yesterday.
+overwhelm//압도하다//Don't let stress overwhelm you.
+owe//빚지고 있다//I owe you twenty dollars.
+owing//~때문에//Owing to rain, we canceled.
+own//자신의//I have my own car.
+owner//소유자//Who's the owner of this dog.
+ownership//소유권//Property ownership requires documents.
+oxygen//산소//Plants produce oxygen.
+pace//속도//Walk at a steady pace.
+pack//포장하다//Pack your suitcase carefully.
+package//포장//The package arrived yesterday.
+page//페이지//Turn to page fifty.
+pain//고통//I have a pain in my back.
+painful//고통스러운//The injection was painful.
+paint//그리다//She loves to paint landscapes.
+painter//화가//Picasso was a famous painter.
+painting//그림//The painting sold for millions.
+pair//한 쌍//I need a new pair of shoes.
+palace//궁전//The royal palace is magnificent.
+pale//창백한//She looked pale and tired.
+palm//손바닥//He held it in his palm.
+pamphlet//팜플렛//Read this informational pamphlet.
+pan//팬//Fry the eggs in a pan.
+panel//패널//The expert panel discussed issues.
+panic//공황//Don't panic in emergencies.
+paper//종이//Write it on paper.
+paradigm//패러다임//Scientific paradigms shift.
+paradise//낙원//Hawaii is a tropical paradise.
+paradox//역설//This creates a logical paradox.
+paragraph//단락//Start a new paragraph here.
+parallel//평행의//The lines are parallel.
+paralyze//마비시키다//Fear can paralyze people.
+parameter//매개변수//Set the parameters correctly.
+pardon//용서//I beg your pardon.
+parent//부모//Parents love their children.
+park//공원//Children play in the park.
+parliament//의회//Parliament passed new legislation.
+part//부분//This is an important part.
+partial//부분적인//I have only partial information.
+participant//참가자//All participants received certificates.
+participate//참가하다//Everyone should participate.
+particle//입자//Atoms contain tiny particles.
+particular//특정한//This particular case is different.
+particularly//특히//I particularly enjoyed dessert.
+partition//분할//The partition divided the room.
+partly//부분적으로//I'm partly responsible.
+partner//파트너//They're business partners.
+partnership//파트너십//The partnership was successful.
+party//파티//We're having a birthday party.
+pass//통과하다//Did you pass the exam.
+passage//통로//The passage was narrow.
+passenger//승객//Passengers boarded the plane.
+passion//열정//She has a passion for music.
+passionate//열정적인//He's passionate about sports.
+passive//수동적인//Don't be passive in meetings.
+past//과거//Learn from the past.
+paste//붙이다//Paste the picture here.
+path//길//Follow the path through the forest.
+patience//인내//Teaching requires patience.
+patient//환자, 인내심 있는//The doctor examined the patient.
+patriot//애국자//He's a true patriot.
+patriotic//애국적인//Singing the anthem is patriotic.
+patrol//순찰//Police patrol the streets nightly.
+pattern//패턴//I noticed a pattern.
+pause//멈추다//Let's pause for a moment.
+pave//포장하다//Workers paved the road.
+pay//지불하다//How much did you pay.
+payment//지불//Monthly payments are due.
+peace//평화//We must work for peace.
+peaceful//평화로운//The village is peaceful.
+peak//정상//They reached the mountain peak.
+peanut//땅콩//Some people are allergic to peanuts.
+peasant//농부//Peasants worked the land.
+peculiar//독특한//He has peculiar habits.
+pedestrian//보행자//Pedestrians use the crosswalk.
+peer//또래//Peer pressure affects teenagers.
+penalty//처벌//The penalty for speeding is high.
+penetrate//관통하다//Bullets penetrated the wall.
+peninsula//반도//Korea is a peninsula.
+pension//연금//He receives a monthly pension.
+people//사람들//Many people attended.
+pepper//후추//Add salt and pepper.
+perceive//인식하다//How do you perceive this problem.
+percent//퍼센트//Fifty percent passed the test.
+percentage//백분율//What percentage agreed.
+perception//인식//Perception affects reality.
+perfect//완벽한//Nobody is perfect.
+perfectly//완

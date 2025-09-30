@@ -1,42 +1,131 @@
 {
   "items": [
     {
-      "id": "basic_english",
-      "name": "기초 영어 단어장",
-      "description": "일상생활에서 자주 사용하는 기초 영어 단어 500개",
-      "detailedDescription": "초보자를 위한 기초 영어 단어장입니다. 일상생활에서 자주 사용하는 단어들을 체계적으로 학습할 수 있습니다.",
+      "id": "suneung_vocab_1000",
+      "name": "고교_필수_영단어",
+      "description": "고등학교 단어 1000개",
+      "detailedDescription": "수능 시험을 준비하는 학생들을 위한 전문 단어장입니다. 실제 시험에 자주 출제되는 단어들을 선별했습니다.",
       "price": 0,
-      "category": "exam",
+      "category": "수능",
       "features": [
-        "500개 기초 단어",
-        "일상생활 중심",
-        "이미지 포함",
-        "초보자 친화적"
-      ],
-      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/basic_english/",
-      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/basic_english.jpg",
-      "isActive": true,
-      "createdAt": "2024-01-15T10:00:00Z",
-      "updatedAt": "2024-01-15T10:30:00Z"
-    },
-    {
-      "id": "toefl_vocabulary",
-      "name": "TOEFL 핵심 단어장",
-      "description": "TOEFL 시험에 자주 출제되는 핵심 단어 1000개",
-      "detailedDescription": "TOEFL 시험을 준비하는 학생들을 위한 전문 단어장입니다. 실제 시험에 자주 출제되는 단어들을 선별했습니다.",
-      "price": 0,
-      "category": "exam",
-      "features": [
-        "1000개 TOEFL 단어",
+        "1000개 영어 단어",
         "시험 중심 구성",
-        "고급 난이도",
-        "실전 문제 포함"
+        "초중급 난이도",
       ],
-      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/toefl_vocabulary/",
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/suneung_vocab_1000/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
       "isActive": true,
-      "createdAt": "2024-01-15T11:00:00Z",
-      "updatedAt": "2024-01-15T11:30:00Z"
-    }
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    },
+    (
+     "id": "e_basic_gu_part1",
+      "name": "필수_영어_구문_Part_1",
+      "description": "필수 영어 구문 200개",
+      "detailedDescription": "필수 영어 구문을 모았습니다.",
+      "price": 0,
+      "category": "필수 영어 구",
+      "features": [
+        "Part 1~5 까지 구성",
+	"200개",
+        "초중급 난이도",
+      ],
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part1/",
+      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
+      "isActive": true,
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    ),
+   (
+     "id": "e_basic_gu_part2",
+      "name": "필수_영어_구문_Part_2",
+      "description": "필수 영어 구문 200개",
+      "detailedDescription": "필수 영어 구문을 모았습니다.",
+      "price": 0,
+      "category": "필수 영어 구",
+      "features": [
+        "Part 1~5 까지 구성",
+        "200개",
+        "초중급 난이도",
+      ],
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part2/",
+      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
+      "isActive": true,
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    ),
+   (
+     "id": "e_basic_gu_part3",
+      "name": "필수_영어_구문_Part_3",
+      "description": "필수 영어 구문 200개",
+      "detailedDescription": "필수 영어 구문을 모았습니다.",
+      "price": 0,
+      "category": "필수 영어 구",
+      "features": [
+        "Part 1~5 까지 구성",
+        "200개",  
+        "초중급 난이도",
+      ],
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part3/",
+      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
+      "isActive": true,
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    ),
+   (
+     "id": "e_basic_gu_part4",
+      "name": "필수_영어_구문_Part_4",
+      "description": "필수 영어 구문 200개",   
+      "detailedDescription": "필수 영어 구문을 모았습니다.",
+      "price": 0,
+      "category": "필수 영어 구",
+      "features": [
+        "Part 1~5 까지 구성",
+        "200개",
+        "초중급 난이도",
+      ],
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part4/",
+      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
+      "isActive": true,
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    ),
+    (
+     "id": "e_basic_gu_part5",
+      "name": "필수_영어_구문_Part_5",
+      "description": "필수 영어 구문 200개",
+      "detailedDescription": "필수 영어 구문을 모았습니다.",
+      "price": 0,
+      "category": "필수 영어 구",
+      "features": [
+        "Part 1~5 까지 구성",
+        "200개",
+        "초중급 난이도",  
+      ],
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part5/",
+      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
+      "isActive": true,
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    ),
+    (
+     "id": "basic_hanguksa",
+      "name": "기본_한국사",
+      "description": "기본 한국사 270개",
+      "detailedDescription": "한국사 기본을 모았습니다. 고대부터 근현대사 까지. 추가하며 공부하기 좋습니다.",
+      "price": 0,
+      "category": "한국사",
+      "features": [
+        "고조선부터 근현대사",
+        "270개",
+        "랜덤 난이도",
+      ],
+      "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/basic_hanguksa/",
+      "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
+      "isActive": true,
+      "createdAt": "2025-10-01T00:00:00Z",
+      "updatedAt": "2025-10-01T00:00:00Z"
+    ),
+
   ]
 }

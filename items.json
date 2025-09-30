@@ -10,7 +10,7 @@
       "features": [
         "1000개 영어 단어",
         "시험 중심 구성",
-        "초중급 난이도",
+        "초중급 난이도"
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/suneung_vocab_1000/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
@@ -27,8 +27,8 @@
       "category": "필수 영어 구",
       "features": [
         "Part 1~5 까지 구성",
-	"200개",
-        "초중급 난이도",
+        "200개",
+        "초중급 난이도"
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part1/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
@@ -46,7 +46,7 @@
       "features": [
         "Part 1~5 까지 구성",
         "200개",
-        "초중급 난이도",
+        "초중급 난이도"
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part2/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
@@ -63,8 +63,8 @@
       "category": "필수 영어 구",
       "features": [
         "Part 1~5 까지 구성",
-        "200개",  
-        "초중급 난이도",
+        "200개",
+        "초중급 난이도"
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part3/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
@@ -82,7 +82,7 @@
       "features": [
         "Part 1~5 까지 구성",
         "200개",
-        "초중급 난이도",
+        "초중급 난이도"
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part4/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
@@ -100,7 +100,7 @@
       "features": [
         "Part 1~5 까지 구성",
         "200개",
-        "초중급 난이도",  
+        "초중급 난이도"  
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/e_basic_gu_part5/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
@@ -118,14 +118,14 @@
       "features": [
         "고조선부터 근현대사",
         "270개",
-        "랜덤 난이도",
+        "랜덤 난이도"
       ],
       "downloadUrl": "https://ju5kim.github.io/rhjkqhwe/products/basic_hanguksa/",
       "previewImageUrl": "https://ju5kim.github.io/rhjkqhwe/images/toefl_vocabulary.jpg",
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    },
+    }
     
   ]
 }

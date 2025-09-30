@@ -18,7 +18,7 @@
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
     },
-    (
+    {
      "id": "e_basic_gu_part1",
       "name": "필수_영어_구문_Part_1",
       "description": "필수 영어 구문 200개",
@@ -35,8 +35,8 @@
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    ),
-   (
+    },
+   {
      "id": "e_basic_gu_part2",
       "name": "필수_영어_구문_Part_2",
       "description": "필수 영어 구문 200개",
@@ -53,8 +53,8 @@
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    ),
-   (
+    },
+   {
      "id": "e_basic_gu_part3",
       "name": "필수_영어_구문_Part_3",
       "description": "필수 영어 구문 200개",
@@ -71,8 +71,8 @@
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    ),
-   (
+    },
+   {
      "id": "e_basic_gu_part4",
       "name": "필수_영어_구문_Part_4",
       "description": "필수 영어 구문 200개",   
@@ -89,8 +89,8 @@
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    ),
-    (
+    },
+      {
      "id": "e_basic_gu_part5",
       "name": "필수_영어_구문_Part_5",
       "description": "필수 영어 구문 200개",
@@ -107,8 +107,8 @@
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    ),
-    (
+    },
+    {
      "id": "basic_hanguksa",
       "name": "기본_한국사",
       "description": "기본 한국사 270개",
@@ -125,7 +125,7 @@
       "isActive": true,
       "createdAt": "2025-10-01T00:00:00Z",
       "updatedAt": "2025-10-01T00:00:00Z"
-    ),
-
+    },
+    
   ]
 }
